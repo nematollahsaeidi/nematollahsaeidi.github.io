@@ -21,45 +21,57 @@
       dates: Oct 2025 – present
       description: |
         - Developed local RAG-based Voice Chat using LangChain, Ollama LLM, JSON/ChromaDB, and Sentence Transformers
-        - Integrated Whisper (STT) → RAG-enhanced LLM → Coqui TTS for full speech pipeline
-        - Implemented real-time speaker recognition with NVIDIA NeMo Titanet and Resemblyzer
-        - Implemented real-time face recognition with YOLO, ArcFace ResNet100, InsightFace
+        - Applied Few-Shot prompting and conversation memory to handle dialogues in voice mode
+        - Integrated Whisper for STT → RAG-enhanced LLM generation → Coqui TTS for full speech pipeline
+        - Implemented real-time speaker recognition systems using NVIDIA NeMo Titanet and Resemblyzer models
+        - Implemented real-time face recognition pipelines with YOLO and models like ArcFace ResNet100 and InsightFace
 
     - title: AI Researcher
       institution: MIAAI, Danube Private University, Austria (Hybrid)
       dates: Sep 2023 – present
       description: |
-        - Content-based Medical Image Retrieval using Graph Neural Networks
-        - Histopathology image analysis, foundation models, generative models
+        - Content-based Medical Image Retrieval Using Graph Neural Networks
+        - Graph neural networks, Foundation models, Histopathology image analysis, Generative models
 
     - title: Marketing Data Scientist
       institution: FANAP Co., Tehran, Iran (Remote)
       dates: Jul 2021 – Sep 2023
       description: |
-        - Collaborated on 10+ deployed AI services: troubleshooting, performance optimization
-        - Designed and executed performance evaluations (accuracy, speed, reliability)
-        - Drafted RFPs and business plans for AI open innovation ecosystem
-        - Authored technical articles and research briefs
+        - Collaborated with cross-functional teams to troubleshoot and optimize the performance of 10+ deployed AI services
+        - Designed and executed performance evaluations to assess model accuracy, speed, and reliability
+        - Drafted RFPs and developed business plans to support initiatives within the AI open innovation ecosystem
+        - Authored technical articles and research briefs for the FANAP Research Team
 
     - title: Data Scientist
       institution: FANAP Co., Tehran, Iran (Hybrid)
-      dates: various projects (2019–2023)
+      dates: Dec 2022 – Sep 2023
       description: |
-        - Medical image analysis and search engine (Dec 2022–Sep 2023)
-        - Contour drawing for robot motion planning (Mar 2022–Jul 2022)
+        - Medical image analysis and implementation of a medical image search engine
+        - Medical image retrieval, image classification, attention-based adversarial variational graph autoencoder, pretrained models, approximate nearest neighbors search algorithm
+
+    - title: Data Scientist (Additional Projects)
+      institution: FANAP Co., Tehran, Iran
+      dates: 2019–2022
+      description: |
+        - Contour Drawing for Robot Motion Planning System (Mar 2022–Jul 2022)
         - Object detection app with REST API (Sep 2020–Jul 2021)
-        - Automatic Number Plate Recognition (Jan 2021)
-        - Video surveillance-based attendance app (Jan 2021–Mar 2021)
+        - Automatic Number Plate Recognition System (Jan 2021)
+        - Video surveillance-based attendance app with REST API (Jan 2021–Mar 2021)
         - Visual search app with REST API (Jan 2020–Sep 2020)
-        - Value creation & clustering library for retail (Aug 2019–Jan 2020)
-        - Fraud detection on credit card transactions (Aug 2019–Jan 2020)
-        - Recommendation systems (Mar 2019–Aug 2019)
-        - Marketing analysis with CatBoost, XGBoost, etc. (Oct 2018–Feb 2019)
+        - Value creation and clustering library (Aug 2019–Jan 2020)
+        - Customer behavior pattern extraction for fraud detection (Aug 2019–Jan 2020)
+        - Recommendation system (Mar 2019–Aug 2019)
+        - Marketing analysis and product prediction (Oct 2018–Feb 2019)
 
 - title: Honors & Awards
   entries:
-    - title: Ernst Mach Grant (OeAD)
-      date: 2024, 2023
+    - title: Ernst Mach Grant
+      issuer: Österreichische Austauschdienst (OeAD)
+      date: 2024
+      description: Research stay at Medical Image Analysis & Artificial Intelligence (MIAAI), Danube Private University, Austria
+    - title: Ernst Mach Grant
+      issuer: Österreichische Austauschdienst (OeAD)
+      date: 2023
       description: Research stay at Medical Image Analysis & Artificial Intelligence (MIAAI), Danube Private University, Austria
     - title: Ranked third in business challenge call
       issuer: FANAP Co., Tehran, Iran
@@ -67,19 +79,22 @@
     - title: Ranked second in Master's graduating class
       issuer: University of Isfahan, Iran
       date: 2017
-    - title: Top two percent of Bachelor's graduates (ranked 3rd among 158)
+      description: Department of Artificial Intelligence Engineering
+    - title: Top two percent of Bachelor's graduates
       issuer: Islamic Azad University Najaf Abad, Iran
       date: 2013
-    - title: Top Student Scholarships (two semesters)
+      description: Ranked 3rd among 158 graduated students in Computer Engineering
+    - title: Top Student Scholarships
       issuer: Islamic Azad University Najaf Abad
       date: 2011
+      description: Scholarships for two semesters
 
-- title: Activities / Service
+- title: Activities
   entries:
     - role: Teaching Assistant
       institution: University of Isfahan, Iran
       dates: Jan 2016 – Jun 2017
-      description: Machine Learning, Statistical Pattern Recognition, Algorithm Design (supervised by Dr. Peyman Adibi)
+      description: Machine Learning, Statistical Pattern Recognition, and Algorithm Design courses (supervised by Dr. Peyman Adibi)
 
 - title: Professional Development
   entries:
@@ -111,27 +126,53 @@
       items:
         - English (C1)
         - German (A2)
-    - category: Programming
+    - category: Programming Languages
       items:
-        - Python, Matlab, NetLogo
-    - category: ML/DL
+        - Python
+        - Matlab
+        - NetLogo
+    - category: ML/DL Frameworks
       items:
-        - PyTorch, Ollama LLM, Hugging Face, RAG pipelines, Prompt Engineering, Transformers, TensorFlow, Keras, Scikit-learn
+        - PyTorch
+        - Ollama LLM
+        - Hugging Face
+        - RAG pipelines
+        - Prompt Engineering
+        - Transformers
+        - TensorFlow
+        - Keras
+        - Scikit-learn
     - category: Computer Vision
       items:
-        - OpenCV, Detectron2, ImageAI, Darknet
+        - OpenCV
+        - Detectron2
+        - ImageAI
+        - Darknet
     - category: Data Analysis
       items:
-        - NumPy, Pandas, Matplotlib, Tableau
+        - NumPy
+        - Pandas
+        - Matplotlib
+        - Tableau
     - category: DevOps & Tools
       items:
-        - Git, Pytest, Flask-RESTful, Postman
+        - Git
+        - Pytest
+        - Flask-RESTful
+        - Postman
     - category: Databases & Search
       items:
-        - SQL Server, Elasticsearch, Faiss, ChromaDB
+        - SQL Server
+        - Elasticsearch
+        - Faiss
+        - ChromaDB
     - category: Web Development
       items:
-        - Bootstrap, CSS, JavaScript, WordPress
+        - Bootstrap
+        - CSS
+        - JavaScript
+        - WordPress
     - category: OS
       items:
-        - Linux, Windows
+        - Linux
+        - Windows
