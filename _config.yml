@@ -1,7 +1,8 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-
+plugins:
+  - jekyll-toc
 title: Emad (Nematollah) Saeidi
 first_name: Emad
 last_name: Saeidi
