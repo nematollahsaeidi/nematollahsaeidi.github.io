@@ -12,8 +12,8 @@ profile:
     <p>MIAAI Group</p>
     <p>Danube Private University, Austria</p>
 
-news: true
-selected_papers: true
+news: false
+selected_papers: false
 social: true
 ---
 
