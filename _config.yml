@@ -7,7 +7,7 @@ last_name: Saeidi
 email: nemat.saeidi@gmail.com
 contact_note: >
   Please feel free to reach out via email or LinkedIn for research collaborations and opportunities.
-description: > 
+description: >
   PhD Candidate in Artificial Intelligence | Medical Image Analysis | Graph Neural Networks | Content-based Medical Image Retrieval
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -27,7 +27,7 @@ back_to_top: true # set to false to disable the back to top button
 github_username: nematollahsaeidi
 linkedin_username: nematollah-saeidi
 scholar_userid: 8kg-cF4AAAAJ
-orcid_id: "0009-0005-0797-1058"  # Add if you have
+orcid_id: "0009-0005-0797-1058" # Add if you have
 
 # -----------------------------------------------------------------------------
 # Theme

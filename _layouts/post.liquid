@@ -60,13 +60,13 @@ layout: default
   </header>
 
   <article class="post-content">
-{% if page.toc and page.toc.beginning %}
-  <div id="table-of-contents">
-    <!-- TOC disabled for GitHub Pages compatibility -->
-    <!-- {% toc %} -->
-  </div>
-  <hr>
-{% endif %}
+    {% if page.toc and page.toc.beginning %}
+      <div id="table-of-contents">
+        <!-- TOC disabled for GitHub Pages compatibility -->
+        <!-- {% toc %} -->
+      </div>
+      <hr>
+    {% endif %}
     <div id="markdown-content">
       {{ content }}
     </div>
