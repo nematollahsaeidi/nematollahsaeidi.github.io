@@ -5,15 +5,16 @@
 title: Emad (Nematollah) Saeidi
 first_name: Emad
 last_name: Saeidi
+email: nemat.saeidi@gmail.com
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Please feel free to reach out via email or LinkedIn for research collaborations and opportunities.
 description: > 
   PhD Candidate in Artificial Intelligence | Medical Image Analysis | Graph Neural Networks | Content-based Medical Image Retrieval
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: keywords: artificial intelligence, medical image analysis, graph neural networks, computer vision, deep learning # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -22,6 +23,12 @@ baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
+
+# Social links
+github_username: nematollahsaeidi
+linkedin_username: nematollah-saeidi
+scholar_userid: 8kg-cF4AAAAJ
+orcid_id: "0009-0005-0797-1058"  # Add if you have
 
 # -----------------------------------------------------------------------------
 # Theme
