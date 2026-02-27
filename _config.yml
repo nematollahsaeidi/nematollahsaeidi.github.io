@@ -1,8 +1,6 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-plugins:
-  - jekyll-toc
 title: Emad (Nematollah) Saeidi
 first_name: Emad
 last_name: Saeidi
@@ -217,6 +215,7 @@ keep_files:
 
 # Plug-ins
 plugins:
+  - jekyll-toc
   - jekyll-3rd-party-libraries
   - jekyll-archives-v2
   - jekyll-cache-bust
