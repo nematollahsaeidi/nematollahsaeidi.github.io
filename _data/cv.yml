@@ -1,178 +1,130 @@
 # _data/cv.yml
-- title: Education
-  entries:
-    - degree: PhD in Artificial Intelligence
-      institution: University of Isfahan, Iran
-      dates: 2019–2026
-      description: "Thesis: Content-based Medical Image Retrieval Using Graph Neural Networks"
-    - degree: Master of Artificial Intelligence
-      institution: University of Isfahan, Iran
-      dates: 2015–2017
-      description: "Thesis: Learning Multi-Objective Binary Features for Image Representation and Recognition"
-    - degree: Bachelor of Software Engineering
-      institution: Islamic Azad University Najaf Abad, Iran
-      dates: 2010–2013
-      description: "Thesis: Intelligent Agent-based Social Simulation Model using Reinforcement Learning"
+education:
+  - institution: University of Isfahan, Isfahan, Iran
+    area: Artificial Intelligence
+    degree: PhD
+    start_date: 2019
+    end_date: 2026
+    thesis: Content-based Medical Image Retrieval Using Graph Neural Networks
+  - institution: University of Isfahan, Isfahan, Iran
+    area: Artificial Intelligence
+    degree: Master
+    start_date: 2015
+    end_date: 2017
+    thesis: Learning Multi-Objective Binary Features for Image Representation and Recognition
+  - institution: Islamic Azad University Najaf Abad, Isfahan, Iran
+    area: Software Engineering
+    degree: Bachelor
+    start_date: 2010
+    end_date: 2013
+    thesis: Intelligent Agent-based Social Simulation Model using Reinforcement Learning
 
-- title: Experience
-  entries:
-    - title: AI Engineer
-      institution: Intelligent Control & Processing Co., Tehran, Iran (Hybrid)
-      dates: Oct 2025 – present
-      description: |
-        - Developed local RAG-based Voice Chat using LangChain, Ollama LLM, JSON/ChromaDB, and Sentence Transformers
-        - Applied Few-Shot prompting and conversation memory to handle dialogues in voice mode
-        - Integrated Whisper for STT → RAG-enhanced LLM generation → Coqui TTS for full speech pipeline
-        - Implemented real-time speaker recognition systems using NVIDIA NeMo Titanet and Resemblyzer models
-        - Implemented real-time face recognition pipelines with YOLO and models like ArcFace ResNet100 and InsightFace
+work:
+  - company: Intelligent Control & Processing Co.
+    position: AI Engineer
+    location: Tehran, Iran (Hybrid)
+    start_date: 2025-10
+    end_date: present
+    summary: >
+      - Developed local RAG-based Voice Chat using LangChain, Ollama LLM, JSON/ChromaDB, and Sentence Transformers
+      - Applied Few-Shot prompting and conversation memory to handle dialogues in voice mode
+      - Integrated Whisper for STT → RAG-enhanced LLM generation → Coqui TTS for full speech pipeline
+      - Implemented real-time speaker recognition systems using NVIDIA NeMo Titanet and Resemblyzer models
+      - Implemented real-time face recognition pipelines with YOLO and models like ArcFace ResNet100 and InsightFace
+  - company: MIAAI, Danube Private University
+    position: AI Researcher
+    location: Austria (Hybrid)
+    start_date: 2023-09
+    end_date: present
+    summary: >
+      - Content-based Medical Image Retrieval Using Graph Neural Networks
+      - Graph neural networks, Foundation models, Histopathology image analysis, Generative models
+  - company: FANAP Co.
+    position: Marketing Data Scientist
+    location: Tehran, Iran (Remote)
+    start_date: 2021-07
+    end_date: 2023-09
+    summary: >
+      - Collaborated with cross-functional teams to troubleshoot and optimize the performance of 10+ deployed AI services
+      - Designed and executed performance evaluations to assess model accuracy, speed, and reliability
+      - Drafted RFPs and developed business plans to support initiatives within the AI open innovation ecosystem
+      - Authored technical articles and research briefs for the FANAP Research Team
+  - company: FANAP Co.
+    position: Data Scientist
+    location: Tehran, Iran (Hybrid)
+    start_date: 2022-12
+    end_date: 2023-09
+    summary: >
+      - Medical image analysis and implementation of a medical image search engine
+      - Medical image retrieval, image classification, attention-based adversarial variational graph autoencoder, pretrained models, approximate nearest neighbors search algorithm
+  - company: FANAP Co.
+    position: Data Scientist (Additional Projects)
+    location: Tehran, Iran
+    start_date: 2019
+    end_date: 2022
+    summary: |
+      - Contour Drawing for Robot Motion Planning System (Mar 2022–Jul 2022)
+      - Object detection app with REST API (Sep 2020–Jul 2021)
+      - Automatic Number Plate Recognition System (Jan 2021)
+      - Video surveillance-based attendance app with REST API (Jan 2021–Mar 2021)
+      - Visual search app with REST API (Jan 2020–Sep 2020)
+      - Value creation and clustering library (Aug 2019–Jan 2020)
+      - Customer behavior pattern extraction for fraud detection (Aug 2019–Jan 2020)
+      - Recommendation system (Mar 2019–Aug 2019)
+      - Marketing analysis and product prediction (Oct 2018–Feb 2019)
 
-    - title: AI Researcher
-      institution: MIAAI, Danube Private University, Austria (Hybrid)
-      dates: Sep 2023 – present
-      description: |
-        - Content-based Medical Image Retrieval Using Graph Neural Networks
-        - Graph neural networks, Foundation models, Histopathology image analysis, Generative models
+awards:
+  - title: Ernst Mach Grant
+    issuer: Österreichische Austauschdienst (OeAD)
+    date: 2024
+    summary: Research stay at Medical Image Analysis & Artificial Intelligence (MIAAI), Danube Private University, Austria
+  - title: Ernst Mach Grant
+    issuer: Österreichische Austauschdienst (OeAD)
+    date: 2023
+    summary: Research stay at Medical Image Analysis & Artificial Intelligence (MIAAI), Danube Private University, Austria
+  - title: Ranked third in business challenge call
+    issuer: FANAP Co.
+    date: 2021
+  - title: Ranked second in Master's graduating class
+    issuer: University of Isfahan
+    date: 2017
+    summary: Department of Artificial Intelligence Engineering
+  - title: Top two percent of Bachelor's graduates
+    issuer: Islamic Azad University Najaf Abad
+    date: 2013
+    summary: Ranked 3rd among 158 graduated students in Computer Engineering
+  - title: Top Student Scholarships
+    issuer: Islamic Azad University Najaf Abad
+    date: 2011
+    summary: Scholarships for two semesters
 
-    - title: Marketing Data Scientist
-      institution: FANAP Co., Tehran, Iran (Remote)
-      dates: Jul 2021 – Sep 2023
-      description: |
-        - Collaborated with cross-functional teams to troubleshoot and optimize the performance of 10+ deployed AI services
-        - Designed and executed performance evaluations to assess model accuracy, speed, and reliability
-        - Drafted RFPs and developed business plans to support initiatives within the AI open innovation ecosystem
-        - Authored technical articles and research briefs for the FANAP Research Team
+service:
+  - institution: University of Isfahan
+    role: Teaching Assistant
+    location: Iran
+    start_date: 2016-01
+    end_date: 2017-06
+    summary: Machine Learning, Statistical Pattern Recognition, and Algorithm Design courses (supervised by Dr. Peyman Adibi)
 
-    - title: Data Scientist
-      institution: FANAP Co., Tehran, Iran (Hybrid)
-      dates: Dec 2022 – Sep 2023
-      description: |
-        - Medical image analysis and implementation of a medical image search engine
-        - Medical image retrieval, image classification, attention-based adversarial variational graph autoencoder, pretrained models, approximate nearest neighbors search algorithm
+skills:
+  - name: Languages
+    description: English (C1), German (A2)
+  - name: Programming Languages
+    description: Python, Matlab, NetLogo
+  - name: ML/DL Frameworks
+    description: PyTorch, Ollama LLM, Hugging Face, RAG pipelines, Prompt Engineering, Transformers, TensorFlow, Keras, Scikit-learn
+  - name: Computer Vision
+    description: OpenCV, Detectron2, ImageAI, Darknet
+  - name: Data Analysis
+    description: NumPy, Pandas, Matplotlib, Tableau
+  - name: DevOps & Tools
+    description: Git, Pytest, Flask-RESTful, Postman
+  - name: Databases & Search
+    description: SQL Server, Elasticsearch, Faiss, ChromaDB
+  - name: Web Development
+    description: Bootstrap, CSS, JavaScript, WordPress
+  - name: OS
+    description: Linux, Windows
 
-    - title: Data Scientist (Additional Projects)
-      institution: FANAP Co., Tehran, Iran
-      dates: 2019–2022
-      description: |
-        - Contour Drawing for Robot Motion Planning System (Mar 2022–Jul 2022)
-        - Object detection app with REST API (Sep 2020–Jul 2021)
-        - Automatic Number Plate Recognition System (Jan 2021)
-        - Video surveillance-based attendance app with REST API (Jan 2021–Mar 2021)
-        - Visual search app with REST API (Jan 2020–Sep 2020)
-        - Value creation and clustering library (Aug 2019–Jan 2020)
-        - Customer behavior pattern extraction for fraud detection (Aug 2019–Jan 2020)
-        - Recommendation system (Mar 2019–Aug 2019)
-        - Marketing analysis and product prediction (Oct 2018–Feb 2019)
-
-- title: Honors & Awards
-  entries:
-    - title: Ernst Mach Grant
-      issuer: Österreichische Austauschdienst (OeAD)
-      date: 2024
-      description: Research stay at Medical Image Analysis & Artificial Intelligence (MIAAI), Danube Private University, Austria
-    - title: Ernst Mach Grant
-      issuer: Österreichische Austauschdienst (OeAD)
-      date: 2023
-      description: Research stay at Medical Image Analysis & Artificial Intelligence (MIAAI), Danube Private University, Austria
-    - title: Ranked third in business challenge call
-      issuer: FANAP Co., Tehran, Iran
-      date: 2021
-    - title: Ranked second in Master's graduating class
-      issuer: University of Isfahan, Iran
-      date: 2017
-      description: Department of Artificial Intelligence Engineering
-    - title: Top two percent of Bachelor's graduates
-      issuer: Islamic Azad University Najaf Abad, Iran
-      date: 2013
-      description: Ranked 3rd among 158 graduated students in Computer Engineering
-    - title: Top Student Scholarships
-      issuer: Islamic Azad University Najaf Abad
-      date: 2011
-      description: Scholarships for two semesters
-
-- title: Activities
-  entries:
-    - role: Teaching Assistant
-      institution: University of Isfahan, Iran
-      dates: Jan 2016 – Jun 2017
-      description: Machine Learning, Statistical Pattern Recognition, and Algorithm Design courses (supervised by Dr. Peyman Adibi)
-
-- title: Professional Development
-  entries:
-    - course: Finetuning Large Language Models
-      provider: DeepLearning.AI
-      date: Mar 2025
-    - course: Applied Plotting, Charting & Data Representation in Python
-      provider: University of Michigan (Coursera)
-      date: Oct 2022
-    - course: Python Project for AI & Application Development
-      provider: IBM
-      date: Sep 2022
-    - course: Applied Machine Learning in Python
-      provider: University of Michigan (Coursera)
-      date: May 2022
-    - course: IPM Advanced Data Science Summer School (ADS³)
-      provider: IPM, Tehran
-      date: Aug 2018
-    - course: Fourth IPM Advanced School on Computing, Artificial Intelligence
-      provider: IPM, Tehran
-      date: Aug 2020
-    - course: IPM Elementary Data Science Summer School (EDS³)
-      provider: IPM, Tehran
-      date: Jun–Jul 2018
-
-- title: Skills
-  entries:
-    - category: Languages
-      items:
-        - English (C1)
-        - German (A2)
-    - category: Programming Languages
-      items:
-        - Python
-        - Matlab
-        - NetLogo
-    - category: ML/DL Frameworks
-      items:
-        - PyTorch
-        - Ollama LLM
-        - Hugging Face
-        - RAG pipelines
-        - Prompt Engineering
-        - Transformers
-        - TensorFlow
-        - Keras
-        - Scikit-learn
-    - category: Computer Vision
-      items:
-        - OpenCV
-        - Detectron2
-        - ImageAI
-        - Darknet
-    - category: Data Analysis
-      items:
-        - NumPy
-        - Pandas
-        - Matplotlib
-        - Tableau
-    - category: DevOps & Tools
-      items:
-        - Git
-        - Pytest
-        - Flask-RESTful
-        - Postman
-    - category: Databases & Search
-      items:
-        - SQL Server
-        - Elasticsearch
-        - Faiss
-        - ChromaDB
-    - category: Web Development
-      items:
-        - Bootstrap
-        - CSS
-        - JavaScript
-        - WordPress
-    - category: OS
-      items:
-        - Linux
-        - Windows
+# Professional development as separate entries or under education/other
+# You can add these as courses under education or create a separate section if needed
