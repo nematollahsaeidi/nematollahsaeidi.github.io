@@ -1,189 +1,324 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Nematollah (Emad) Saeidi
+  label: AI Researcher
+  email: nemat.saeidi@gmail.com
+  location: Wiener Neustadt, Austria
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: AI researcher working on content-based medical image retrieval, graph neural networks, foundation models and histopathology image analysis.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: nematollahsaeidi
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: nematollah-saeidi
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: University of Isfahan
+        location: Isfahan, Iran
+        area: Artificial Intelligence
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+        start_date: 2019
+        end_date: 2026-10
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Thesis: Content-based Medical Image Retrieval Using Graph Neural Networks"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: University of Isfahan
+        location: Isfahan, Iran
+        area: Artificial Intelligence
+        studyType: MSc
+        start_date: 2015
+        end_date: 2017
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Thesis: Learning Multi-Objective Binary Features for Image Representation and Recognition"
+
+      - institution: Islamic Azad University Najaf Abad
+        location: Isfahan, Iran
+        area: Software Engineering
+        studyType: BSc
+        start_date: 2010
+        end_date: 2013
+        highlights:
+          - "Thesis: Intelligent Agent-based Social Simulation Model using Reinforcement Learning"
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Intelligent Control & Processing Co.
+        position: AI Engineer
+        location: Tehran, Iran (Hybrid)
+        start_date: 2025-10
+        end_date: present
         highlights:
-          - Relativity
-          - Description 2.
+          - Developed a local RAG-based voice chat using LangChain, Ollama LLM, JSON/ChromaDB and Sentence Transformers, with few-shot prompting and conversation memory for dialogues in voice mode.
+          - Integrated Whisper (speech-to-text), a RAG-enhanced LLM and Coqui TTS into a full speech pipeline.
+          - Implemented real-time speaker recognition with NVIDIA NeMo TitaNet and Resemblyzer, including voice activity detection and acoustic feature extraction.
+          - Implemented real-time face recognition pipelines with YOLO for detection and ArcFace ResNet100 / InsightFace models for recognition.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Medical Image Analysis & Artificial Intelligence (MIAAI), Danube Private University
+        position: AI Researcher
+        location: Austria (Hybrid)
+        start_date: 2023-09
+        end_date: present
         highlights:
-          - Description 1.
-          - Description 2.
+          - Content-based medical image retrieval using graph neural networks.
+          - Graph neural networks, foundation models, histopathology image analysis and generative models.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: FANAP Co.
+        position: Marketing Data Scientist
+        location: Tehran, Iran (Remote)
+        start_date: 2021-07
+        end_date: 2023-09
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Collaborated with cross-functional teams to troubleshoot and optimize the performance of 10+ deployed AI services.
+          - Designed and executed performance evaluations to assess model accuracy, speed and reliability.
+          - Drafted RFPs and developed business plans to support initiatives within the AI open innovation ecosystem.
+          - Authored technical articles and research briefs for the FANAP Research Team, promoting knowledge sharing and innovation.
+
+      - company: FANAP Co.
+        position: Data Scientist
+        location: Tehran, Iran (Hybrid)
+        start_date: 2018-10
+        end_date: 2023-09
+        summary: Worked in an agile environment with daily standups, sprint retrospectives, backlog grooming and continuous integration in two-week sprints.
+        highlights:
+          - "Medical image search engine (Dec 2022 - Sep 2023): medical image retrieval and classification with an attention-based adversarial variational graph autoencoder, pre-trained models and approximate nearest neighbor search."
+          - "Contour drawing for a robot motion planning system (Mar 2022 - Jul 2022): contour extraction with image processing techniques for a drawing robot."
+          - "Object detection app with REST API (Sep 2020 - Jul 2021): detection and segmentation frameworks, few-shot models and transfer learning."
+          - "Video surveillance-based attendance and registration app with REST API (Jan 2021 - Mar 2021)."
+          - "Automatic number plate recognition system (Jan 2021): vehicle registration, vehicle data search and display of top records by license plate."
+          - "Visual search app with REST API (Jan 2020 - Sep 2020): object detection and recognition, color extraction, image web crawler, transfer learning and approximate nearest neighbor search."
+          - "Value creation and clustering library (Aug 2019 - Jan 2020): SaaS metrics and KPIs, customer analysis and segmentation, cluster ensembles for the grocery retail industry."
+          - "Customer behavior pattern mining on credit card transactions (Aug 2019 - Jan 2020) for fraud detection (money laundering, tax evasion)."
+          - "Recommendation system (Mar 2019 - Aug 2019): sequence-to-sequence ranking model, association rules, hybrid, content and collaborative filtering, customer clustering and feature engineering for candidate generation."
+          - "Marketing analysis and product prediction (Oct 2018 - Feb 2019) with CatBoost, XGBoost, LightGBM, ensembles and MLP."
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: Ernst Mach Grant, OeAD (Austrian Agency for International Cooperation in Education and Research)
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - "OeAD"
+        date: 2024
+        awarder: OeAD
+        summary: Research stay at Medical Image Analysis & Artificial Intelligence (MIAAI), Danube Private University (DPU), Austria.
 
-      - title: Max Planck Medal
+      - title: Ernst Mach Grant, OeAD (Austrian Agency for International Cooperation in Education and Research)
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - "OeAD"
+        date: 2023
+        awarder: OeAD
+        summary: Research stay at Medical Image Analysis & Artificial Intelligence (MIAAI), Danube Private University (DPU), Austria.
+
+      - title: Third place in the call to solve business challenges
+        authors:
+          - "FANAP Co."
+        date: 2021
+        awarder: FANAP Co., Tehran, Iran
+
+      - title: Second in the graduating class, MSc in Computer Engineering (Artificial Intelligence)
+        authors:
+          - "University of Isfahan"
+        date: 2017
+        awarder: Department of Artificial Intelligence Engineering, University of Isfahan, Iran
+
+      - title: Top two percent of graduated students, ranked 3rd among 158 BSc graduates in Computer Engineering
+        authors:
+          - "Islamic Azad University Najaf Abad"
+        date: 2013
+        awarder: Department of Computer Engineering, Islamic Azad University Najaf Abad, Iran
+
+      - title: Top Student, scholarships for two semesters
+        authors:
+          - "Islamic Azad University Najaf Abad"
+        date: 2011
+        awarder: Islamic Azad University Najaf Abad, Iran
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "Unfolding Graph Convolutional Networks: Architectures, Use Cases, and Trends"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Nematollah Saeidi
+          - Vahid Hajipour
+          - S. Hekmat
+          - B. Shoushtarian
+        publisher: Applied Soft Computing (IF~8.2, Q1)
+        releaseDate: 2026
+        url: https://doi.org/10.1016/j.asoc.2026.115122
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Evaluating Pre-trained Convolutional Neural Networks and Foundation Models as Feature Extractors for Content-based Medical Image Retrieval
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Amirreza Mahbod
+          - Nematollah Saeidi
+          - S. Hatamikia
+          - R. Woitek
+        publisher: Engineering Applications of Artificial Intelligence (IF~8, Q1)
+        releaseDate: 2025
+        url: https://doi.org/10.1016/j.engappai.2025.110571
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: Leveraging Medical Foundation Model Features in Graph Neural Network-Based Retrieval of Breast Histopathology Images
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Nematollah Saeidi
+          - H. Karshenas
+          - B. Shoushtarian
+          - S. Hatamikia
+          - R. Woitek
+          - Amirreza Mahbod
+        publisher: International Journal of Imaging Systems and Technology (IF~3.3, Q2)
+        releaseDate: 2025
+
+      - title: Integrating Foundation Model Features into Graph Neural Network and Fusing Predictions with Standard Fine-Tuned Models for Histology Image Classification
+        authors:
+          - Nematollah Saeidi
+          - N. Torbati
+          - R. Woitek
+          - Amirreza Mahbod
+        publisher: Bioengineering, 12, 1332 (IF~3.7, Q2)
+        releaseDate: 2025
+        url: https://doi.org/10.3390/bioengineering12121332
+
+      - title: Incorporating Shape Dependent Power Law in Motion Planning for Drawing Robots
+        authors:
+          - M. Abedinzadeh Shahri
+          - Nematollah Saeidi
+          - Vahid Hajipour
+        publisher: Robotics and Autonomous Systems, 182, 104801 (IF~4.3, Q1)
+        releaseDate: 2024
+
+      - title: "Artificial Intelligence and Clinical Decision Making: Approaches and Challenges"
+        authors:
+          - Nematollah Saeidi
+          - M. Torabi
+        publisher: Journal of Applied Intelligent Systems and Information Sciences, 3(2), 43-55
+        releaseDate: 2022
+
+      - title: Attention-Based and Positional-Aware Neural Networks for Next-Item Recommendation
+        authors:
+          - Nematollah Saeidi
+          - H. Shahamat
+        publisher: Journal of Applied Intelligent Systems and Information Sciences, 2(1), 29-40
+        releaseDate: 2021
+
+      - title: Single Sample Face Recognition Using Multicross Pattern and Learning Discriminative Binary Features
+        authors:
+          - Nematollah Saeidi
+          - H. Karshenas
+          - H. M. Mohammadi
+        publisher: Journal of Applied Security Research, 14(2), 169-190 (IF~1.2, Q2)
+        releaseDate: 2019
+
+      - title: Learning Multi-Objective Binary Features for Image Representation
+        authors:
+          - Nematollah Saeidi
+          - H. Karshenas
+          - H. M. Mohammadi
+        publisher: 2017 7th International Conference on Computer and Knowledge Engineering (ICCKE), Mashhad, pp. 47-52, IEEE
+        releaseDate: 2017
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Programming
+        level: Advanced
+        icon: fa-solid fa-code
+        keywords: "Python, Matlab, NetLogo"
+      - name: Machine Learning and Deep Learning
+        level: Advanced
+        icon: fa-solid fa-brain
+        keywords: "PyTorch, TensorFlow, Keras, Scikit-learn, Transformers, Hugging Face, Ollama LLM, RAG pipelines, Prompt Engineering"
+      - name: Computer Vision
+        level: Advanced
+        icon: fa-solid fa-eye
+        keywords: "OpenCV, Detectron2, ImageAI, Darknet"
+      - name: Data Analysis
+        level: Advanced
+        icon: fa-solid fa-chart-column
+        keywords: "NumPy, Pandas, Matplotlib, Tableau"
+      - name: DevOps
+        level: Intermediate
+        icon: fa-solid fa-gears
+        keywords: "Git, Pytest, Flask-RESTful, Postman, Docker"
+      - name: Databases and Search
+        level: Intermediate
+        icon: fa-solid fa-database
+        keywords: "SQL Server, Elasticsearch, Faiss, ChromaDB"
+      - name: Web Development
+        level: Intermediate
+        icon: fa-solid fa-globe
+        keywords: "Bootstrap, CSS, JavaScript, WordPress"
+      - name: Tools and Systems
+        level: Advanced
+        icon: fa-solid fa-terminal
+        keywords: "PyCharm, Jupyter, Anaconda, Linux, Windows"
 
     Languages:
-      - name: German
+      - name: Persian
         summary: "Native speaker"
 
       - name: English
-        summary: "Fluent"
+        summary: "C1"
+
+      - name: German
+        summary: "A2"
 
     Interests:
-      - name: Physics
+      - name: Medical Image Analysis
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Content-based Image Retrieval, Histopathology, Foundation Models"
+      - name: Graph Neural Networks
+        icon: fa-solid fa-hashtag
+        keywords: "Graph Convolutional Networks, Graph Autoencoders, Generative Models"
+      - name: Applied AI
+        icon: fa-solid fa-tag
+        keywords: "RAG, Speech Pipelines, Face and Speaker Recognition, Recommender Systems"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: Finetuning Large Language Models
+        date: 2025-03
+        issuer: DeepLearning.AI
+        icon: fa-solid fa-certificate
+      - name: Applied Plotting, Charting & Data Representation in Python
+        date: 2022-10
+        issuer: University of Michigan (Coursera)
+        icon: fa-solid fa-certificate
+      - name: Python Project for AI & Application Development
+        date: 2022-09
+        issuer: IBM
+        icon: fa-solid fa-certificate
+      - name: Applied Machine Learning in Python
+        date: 2022-05
+        issuer: University of Michigan (Coursera)
+        icon: fa-solid fa-certificate
+      - name: Fourth IPM Advanced School on Computing, Artificial Intelligence
+        date: 2020-08
+        issuer: IPM, Tehran, Iran
+        icon: fa-solid fa-certificate
+      - name: IPM Advanced Data Science Summer School (ADS3)
+        date: 2018-08
+        issuer: IPM, Tehran, Iran
+        icon: fa-solid fa-certificate
+      - name: IPM Elementary Data Science Summer School (EDS3)
+        date: 2018-07
+        issuer: IPM, Tehran, Iran
+        icon: fa-solid fa-certificate
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: Medical Image Retrieval with Foundation Models
+        summary: Evaluation of pre-trained CNNs and medical foundation models as feature extractors for content-based medical image retrieval.
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - https://github.com/nematollahsaeidi/Medical-Image-Retrieval
+      - name: Histology Image Classification with GNNs
+        summary: Medical image classification using foundation model features in a graph neural network.
+        highlights:
+          - https://github.com/nematollahsaeidi/his_img_GNN_classification
+      - name: Photo-Sketch
+        summary: Contour generation from input images for drawing-robot motion planning.
+        highlights:
+          - https://github.com/nematollahsaeidi/Photo-Sketch
+
+    Teaching:
+      - name: Teaching Assistant, University of Isfahan
+        icon: fa-solid fa-chalkboard-user
+        keywords: "Machine Learning, Statistical Pattern Recognition, Algorithm Design (Jan 2016 - Jun 2017, under supervision of Dr. Peyman Adibi)"
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Amirreza Mahbod
+        icon: fa-solid fa-user
+        reference: Assistant Professor, Medical Image Analysis & Artificial Intelligence (MIAAI), Danube Private University (DPU), Vienna, Austria. amirreza.mahbod@dp-uni.ac.at
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Vahid Hajipour
+        icon: fa-solid fa-user
+        reference: Assistant Professor, Industrial Engineering, Altinbas University, Istanbul, Turkey; Head of Research Center, FANAP Co., Tehran, Iran. vahid.hajipour@altinbas.edu.tr
