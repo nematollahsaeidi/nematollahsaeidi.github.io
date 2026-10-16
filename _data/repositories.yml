@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
-
-repo_description_lines_max: 2
+  - nematollahsaeidi
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - nematollahsaeidi/his_img_GNN_classification
+  - nematollahsaeidi/Medical-Image-Retrieval
+  - nematollahsaeidi/Photo-Sketch
+  - nematollahsaeidi/Object-Detection-and-Retrieval-System
+  - nematollahsaeidi/Registration-Attendance-System
+  - nematollahsaeidi/PY-Clean-Code
