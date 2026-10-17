@@ -5,5 +5,4 @@ cv_pdf: /assets/pdf/Nematollah_Saeidi_CV.pdf # path to your CV PDF file
 email: nemat.saeidi@gmail.com # your email address
 github_username: nematollahsaeidi # your GitHub user name
 linkedin_username: nematollah-saeidi # your LinkedIn user name
-rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: 8kg-cF4AAAAJ # your Google Scholar ID

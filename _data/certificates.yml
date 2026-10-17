@@ -1,0 +1,45 @@
+# Put each certificate image in assets/img/certificates/ using the file name given in `image`.
+# If an image is missing, the card is simply shown without a picture.
+- name: "Pretraining LLMs"
+  issuer: "DeepLearning.AI"
+  date: "Apr 2025"
+  url: "https://learn.deeplearning.ai/accomplishments/b7e0b2f6-5ac5-45dd-a5af-442689cc913f?usp=sharing"
+  image: /assets/img/certificates/pretraining-llms.jpg
+- name: "Finetuning Large Language Models"
+  issuer: "DeepLearning.AI"
+  date: "Mar 2025"
+  url: "https://learn.deeplearning.ai/accomplishments/d7953221-639a-4242-9f30-e16989a46719?usp=sharing"
+  image: /assets/img/certificates/finetuning-llms.jpg
+- name: "Applied Plotting, Charting & Data Representation in Python"
+  issuer: "University of Michigan (Coursera)"
+  date: "Oct 2022"
+  credential_id: "FZUY5DRK9KDW"
+  url: "https://www.coursera.org/account/accomplishments/certificate/FZUY5DRK9KDW"
+  image: /assets/img/certificates/applied-plotting.jpg
+- name: "Python Project for AI & Application Development"
+  issuer: "IBM"
+  date: "Sep 2022"
+  image: /assets/img/certificates/python-project-ai.jpg
+- name: "Applied Machine Learning in Python"
+  issuer: "University of Michigan (Coursera)"
+  date: "May 2022"
+  credential_id: "2d37cd669713fe13686f15f3abd8f3ea"
+  url: "https://coursera.org/share/2d37cd669713fe13686f15f3abd8f3ea"
+  image: /assets/img/certificates/applied-ml-python.jpg
+- name: "Fifth IPM Advanced School on Computing and Artificial Intelligence"
+  issuer: "Institute for Research in Fundamental Sciences (IPM)"
+  date: "Sep 2021"
+  image: /assets/img/certificates/ipm-fifth.jpg
+- name: "Fourth IPM Advanced School on Computing and Artificial Intelligence"
+  issuer: "Institute for Research in Fundamental Sciences (IPM)"
+  date: "Aug 2020"
+  url: "https://drive.google.com/file/d/15iiUW10yFgBsG9mTzx773369CldaWlx2/view?usp=sharing"
+  image: /assets/img/certificates/ipm-fourth.jpg
+- name: "IPM Advanced Data Science Summer School (ADS3)"
+  issuer: "Institute for Research in Fundamental Sciences (IPM)"
+  date: "Aug 2018"
+  image: /assets/img/certificates/ipm-ads3.jpg
+- name: "IPM Elementary Data Science Summer School (EDS3)"
+  issuer: "Institute for Research in Fundamental Sciences (IPM)"
+  date: "Jul 2018"
+  image: /assets/img/certificates/ipm-eds3.jpg
