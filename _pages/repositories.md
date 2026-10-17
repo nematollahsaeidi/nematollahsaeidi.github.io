@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
+> **Please note:** this page is not a full picture of my code. I write code every day, but for the past two years my work has been done for companies under confidentiality and privacy policies, so it cannot be published on GitHub. The repositories below are only the public part of my work (mostly academic and earlier projects).
+
 {% if site.data.repositories.github_users %}
 
 ## GitHub users
