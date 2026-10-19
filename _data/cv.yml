@@ -5,13 +5,11 @@ cv:
   location: Wiener Neustadt, Austria
   image: ""
   summary: AI researcher working on content-based medical image retrieval, graph neural networks, foundation models and histopathology image analysis.
-
   social_networks:
     - network: GitHub
       username: nematollahsaeidi
     - network: LinkedIn
       username: nematollah-saeidi
-
   sections:
     Education:
       - institution: University of Isfahan
@@ -20,169 +18,91 @@ cv:
         studyType: PhD
         start_date: 2019
         end_date: 2026-10
-        highlights:
-          - "Thesis: Content-based Medical Image Retrieval Using Graph Neural Networks"
-
+        summary: "Thesis: Content-based Medical Image Retrieval Using Graph Neural Networks."
       - institution: University of Isfahan
         location: Isfahan, Iran
         area: Artificial Intelligence
         studyType: MSc
         start_date: 2015
         end_date: 2017
-        highlights:
-          - "Thesis: Learning Multi-Objective Binary Features for Image Representation and Recognition"
-
+        summary: "Thesis: Learning Multi-Objective Binary Features for Image Representation and Recognition."
       - institution: Islamic Azad University Najaf Abad
         location: Isfahan, Iran
         area: Software Engineering
         studyType: BSc
         start_date: 2010
         end_date: 2013
-        highlights:
-          - "Thesis: Intelligent Agent-based Social Simulation Model using Reinforcement Learning"
-
+        summary: "Thesis: Intelligent Agent-based Social Simulation Model using Reinforcement Learning."
     Experience:
       - company: Hyrcan Technology Development Co.
         position: AI Engineer
         location: Tehran, Iran (Hybrid)
         start_date: 2025-11
         end_date: present
-        highlights:
-          - Developed a local RAG-based voice chat using LangChain, Ollama LLM, JSON/ChromaDB and Sentence Transformers, with few-shot prompting and conversation memory for dialogues in voice mode.
-          - Integrated Whisper (speech-to-text), a RAG-enhanced LLM and Coqui TTS into a full speech pipeline.
-          - Implemented real-time speaker recognition with NVIDIA NeMo TitaNet and Resemblyzer, including voice activity detection and acoustic feature extraction.
-          - Implemented real-time face recognition pipelines with YOLO for detection and ArcFace ResNet100 / InsightFace models for recognition.
-
+        summary: Developed a local RAG-based voice chat using LangChain, Ollama LLM, JSON/ChromaDB and Sentence Transformers, with few-shot prompting and conversation memory for dialogues in voice mode. Integrated Whisper (speech-to-text), a RAG-enhanced LLM and Coqui TTS into a full speech pipeline. Implemented real-time speaker recognition with NVIDIA NeMo TitaNet and Resemblyzer, including voice activity detection and acoustic feature extraction. Implemented real-time face recognition pipelines with YOLO for detection and ArcFace ResNet100 / InsightFace models for recognition.
       - company: Danube Private University Austria (DPU), MIAAI Group
         position: AI Researcher
         location: TFZ Technologie- und Forschungszentrum Wr. Neustadt, Austria (Hybrid)
         start_date: 2023-09
         end_date: present
-        highlights:
-          - Histopathological image classification by nuclei-based graph convolutional networks and foundation models.
-          - Content-based medical image retrieval using graph neural networks.
-          - Image classification, graph neural networks, foundation models, histopathology image analysis, nuclei segmentation and generative models.
-
+        summary: Histopathological image classification by nuclei-based graph convolutional networks and foundation models. Content-based medical image retrieval using graph neural networks. Image classification, graph neural networks, foundation models, histopathology image analysis, nuclei segmentation and generative models.
       - company: FANAP Co.
         position: Marketing Data Scientist
         location: Tehran, Iran (Remote)
         start_date: 2021-07
         end_date: 2023-09
-        highlights:
-          - Collaborated with cross-functional teams to troubleshoot and optimize the performance of 10+ deployed AI services.
-          - Designed and executed performance evaluations to assess model accuracy, speed and reliability, and identified and reported anomalies in AI systems.
-          - Drafted RFPs and developed business plans to support initiatives within the AI open innovation ecosystem.
-          - Authored technical articles and research briefs for the FANAP Research Team.
-          - "Medical image search engine (Dec 2022 - Sep 2023): medical image retrieval and classification with an attention-based adversarial variational graph autoencoder, pre-trained models and approximate nearest neighbor search."
-          - "Contour drawing for a robot motion planning system (Mar 2022 - Jul 2022): contour extraction with image processing techniques for a drawing robot."
-
+        summary: "Collaborated with cross-functional teams to troubleshoot and optimize the performance of 10+ deployed AI services. Designed and executed performance evaluations to assess model accuracy, speed and reliability, and identified and reported anomalies in AI systems. Drafted RFPs and developed business plans to support initiatives within the AI open innovation ecosystem. Authored technical articles and research briefs for the FANAP Research Team. Medical image search engine (Dec 2022 - Sep 2023): medical image retrieval and classification with an attention-based adversarial variational graph autoencoder, pre-trained models and approximate nearest neighbor search. Contour drawing for a robot motion planning system (Mar 2022 - Jul 2022): contour extraction with image processing techniques for a drawing robot."
       - company: FANAP Co.
         position: Data Scientist
         location: Tehran, Iran (Hybrid)
         start_date: 2018-10
         end_date: 2021-07
-        summary: Worked in an agile environment with daily standups, sprint retrospectives, backlog grooming and continuous integration in two-week sprints.
-        highlights:
-          - Programmed visual search and object detection AI services from scratch, and collaborated with the FANAP Research team on fraud detection, chatbot, video surveillance, recommendation and customer behavior analysis services.
-          - "Object detection app with REST API (Sep 2020 - Jul 2021): detection and segmentation frameworks, few-shot models and transfer learning."
-          - "Video surveillance-based attendance and registration app with REST API (Jan 2021 - Mar 2021)."
-          - "Automatic number plate recognition system (Jan 2021): vehicle registration, vehicle data search and display of top records by license plate."
-          - "Visual search app with REST API (Jan 2020 - Sep 2020): object detection and recognition, color extraction, image web crawler, transfer learning and approximate nearest neighbor search."
-          - "Value creation and clustering library (Aug 2019 - Jan 2020): SaaS metrics and KPIs, customer analysis and segmentation, cluster ensembles for the grocery retail industry."
-          - "Customer behavior pattern mining on credit card transactions (Aug 2019 - Jan 2020) for fraud detection (money laundering, tax evasion)."
-          - "Recommendation system (Mar 2019 - Aug 2019): sequence-to-sequence ranking model, association rules, hybrid, content and collaborative filtering, customer clustering and feature engineering for candidate generation."
-          - "Marketing analysis and product prediction (Oct 2018 - Feb 2019) with CatBoost, XGBoost, LightGBM, ensembles and MLP."
-
+        summary: "Worked in an agile environment with daily standups, sprint retrospectives, backlog grooming and continuous integration in two-week sprints. Programmed visual search and object detection AI services from scratch, and collaborated with the FANAP Research team on fraud detection, chatbot, video surveillance, recommendation and customer behavior analysis services. Object detection app with REST API (Sep 2020 - Jul 2021): detection and segmentation frameworks, few-shot models and transfer learning. Video surveillance-based attendance and registration app with REST API (Jan 2021 - Mar 2021). Automatic number plate recognition system (Jan 2021): vehicle registration, vehicle data search and display of top records by license plate. Visual search app with REST API (Jan 2020 - Sep 2020): object detection and recognition, color extraction, image web crawler, transfer learning and approximate nearest neighbor search. Value creation and clustering library (Aug 2019 - Jan 2020): SaaS metrics and KPIs, customer analysis and segmentation, cluster ensembles for the grocery retail industry. Customer behavior pattern mining on credit card transactions (Aug 2019 - Jan 2020) for fraud detection (money laundering, tax evasion). Recommendation system (Mar 2019 - Aug 2019): sequence-to-sequence ranking model, association rules, hybrid, content and collaborative filtering, customer clustering and feature engineering for candidate generation. Marketing analysis and product prediction (Oct 2018 - Feb 2019) with CatBoost, XGBoost, LightGBM, ensembles and MLP."
       - company: University of Isfahan
         position: Research Assistant
         location: Isfahan, Iran (On-site)
         start_date: 2019-10
         end_date: 2023-07
-        highlights:
-          - Content-based medical image retrieval using graph neural networks.
-          - Image retrieval, graph neural networks, medical image analysis, generative models and foundation models.
-
+        summary: Content-based medical image retrieval using graph neural networks. Image retrieval, graph neural networks, medical image analysis, generative models and foundation models.
       - company: University of Isfahan
         position: Graduate Teaching Assistant
         location: Isfahan, Iran (On-site)
         start_date: 2016-01
         end_date: 2017-06
         summary: Machine Learning, Statistical Pattern Recognition and Algorithm Design courses under the supervision of Dr. Peyman Adibi.
-
-    Volunteer:
-      - company: Elsevier
-        position: Reviewer, Applied Soft Computing
-        start_date: 2026-07
-        end_date: present
-        summary: Peer reviewer for the journal Applied Soft Computing. https://www.sciencedirect.com/journal/applied-soft-computing
-
-      - company: Elsevier
-        position: Reviewer, Computer Methods and Programs in Biomedicine
-        start_date: 2026-06
-        end_date: present
-        summary: Peer reviewer for the journal Computer Methods and Programs in Biomedicine. https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine
-
-      - company: Elsevier
-        position: Reviewer, Biomedical Signal Processing and Control
-        start_date: 2024-09
-        end_date: present
-        summary: Peer reviewer for the journal Biomedical Signal Processing and Control. https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control
-
-      - company: Wiley
-        position: Reviewer, International Journal of Imaging Systems and Technology
-        start_date: 2026-09
-        end_date: present
-        summary: Peer reviewer for the International Journal of Imaging Systems and Technology. https://onlinelibrary.wiley.com/journal/10981098
-
-      - company: Sage
-        position: Reviewer, Cancer Control
-        summary: Peer reviewer for the journal Cancer Control. https://journals.sagepub.com/home/CCX
-
-      - company: FANAP
-        position: Reviewer, Journal of Applied Intelligent Systems & Information Sciences (JAISIS)
-        start_date: 2021-05
-        end_date: present
-        summary: Peer reviewer for JAISIS. https://journal.research.fanap.com/
-
     Awards:
       - title: Ernst Mach Grant, OeAD (Austrian Agency for International Cooperation in Education and Research)
         authors:
-          - "OeAD"
+          - OeAD
         date: 2024
         awarder: OeAD
         summary: Research stay at Medical Image Analysis & Artificial Intelligence (MIAAI), Danube Private University (DPU), Austria.
-
       - title: Ernst Mach Grant, OeAD (Austrian Agency for International Cooperation in Education and Research)
         authors:
-          - "OeAD"
+          - OeAD
         date: 2023
         awarder: OeAD
         summary: Research stay at Medical Image Analysis & Artificial Intelligence (MIAAI), Danube Private University (DPU), Austria.
-
       - title: Third place in the call to solve business challenges
         authors:
-          - "FANAP Co."
+          - FANAP Co.
         date: 2021
         awarder: FANAP Co., Tehran, Iran
-
       - title: Second in the graduating class, MSc in Computer Engineering (Artificial Intelligence)
         authors:
-          - "University of Isfahan"
+          - University of Isfahan
         date: 2017
         awarder: Department of Artificial Intelligence Engineering, University of Isfahan, Iran
-
       - title: Top two percent of graduated students, ranked 3rd among 158 BSc graduates in Computer Engineering
         authors:
-          - "Islamic Azad University Najaf Abad"
+          - Islamic Azad University Najaf Abad
         date: 2013
         awarder: Department of Computer Engineering, Islamic Azad University Najaf Abad, Iran
-
       - title: Top Student, scholarships for two semesters
         authors:
-          - "Islamic Azad University Najaf Abad"
+          - Islamic Azad University Najaf Abad
         date: 2011
         awarder: Islamic Azad University Najaf Abad, Iran
-
     Publications:
       - title: "Unfolding Graph Convolutional Networks: Architectures, Use Cases, and Trends"
         authors:
@@ -193,7 +113,6 @@ cv:
         publisher: Applied Soft Computing (IF~8.2, Q1)
         releaseDate: 2026
         url: https://doi.org/10.1016/j.asoc.2026.115122
-
       - title: Evaluating Pre-trained Convolutional Neural Networks and Foundation Models as Feature Extractors for Content-based Medical Image Retrieval
         authors:
           - Amirreza Mahbod
@@ -203,7 +122,6 @@ cv:
         publisher: Engineering Applications of Artificial Intelligence (IF~8, Q1)
         releaseDate: 2025
         url: https://doi.org/10.1016/j.engappai.2025.110571
-
       - title: Leveraging Medical Foundation Model Features in Graph Neural Network-Based Retrieval of Breast Histopathology Images
         authors:
           - Nematollah Saeidi
@@ -214,7 +132,6 @@ cv:
           - Amirreza Mahbod
         publisher: International Journal of Imaging Systems and Technology (IF~3.3, Q2)
         releaseDate: 2025
-
       - title: Integrating Foundation Model Features into Graph Neural Network and Fusing Predictions with Standard Fine-Tuned Models for Histology Image Classification
         authors:
           - Nematollah Saeidi
@@ -224,7 +141,6 @@ cv:
         publisher: Bioengineering, 12, 1332 (IF~3.7, Q2)
         releaseDate: 2025
         url: https://doi.org/10.3390/bioengineering12121332
-
       - title: Incorporating Shape Dependent Power Law in Motion Planning for Drawing Robots
         authors:
           - M. Abedinzadeh Shahri
@@ -232,21 +148,18 @@ cv:
           - Vahid Hajipour
         publisher: Robotics and Autonomous Systems, 182, 104801 (IF~4.3, Q1)
         releaseDate: 2024
-
       - title: "Artificial Intelligence and Clinical Decision Making: Approaches and Challenges"
         authors:
           - Nematollah Saeidi
           - M. Torabi
         publisher: Journal of Applied Intelligent Systems and Information Sciences, 3(2), 43-55
         releaseDate: 2022
-
       - title: Attention-Based and Positional-Aware Neural Networks for Next-Item Recommendation
         authors:
           - Nematollah Saeidi
           - H. Shahamat
         publisher: Journal of Applied Intelligent Systems and Information Sciences, 2(1), 29-40
         releaseDate: 2021
-
       - title: Single Sample Face Recognition Using Multicross Pattern and Learning Discriminative Binary Features
         authors:
           - Nematollah Saeidi
@@ -254,7 +167,6 @@ cv:
           - H. M. Mohammadi
         publisher: Journal of Applied Security Research, 14(2), 169-190 (IF~1.2, Q2)
         releaseDate: 2019
-
       - title: Learning Multi-Objective Binary Features for Image Representation
         authors:
           - Nematollah Saeidi
@@ -262,62 +174,91 @@ cv:
           - H. M. Mohammadi
         publisher: 2017 7th International Conference on Computer and Knowledge Engineering (ICCKE), Mashhad, pp. 47-52, IEEE
         releaseDate: 2017
+    Reviewer:
+      - company: "Applied Soft Computing"
+        position: "Reviewer (Elsevier)"
+        start_date: 2026-07
+        end_date: present
+        summary: https://www.sciencedirect.com/journal/applied-soft-computing
+
+      - company: "Computer Methods and Programs in Biomedicine"
+        position: "Reviewer (Elsevier)"
+        start_date: 2026-06
+        end_date: present
+        summary: https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine
+
+      - company: "Biomedical Signal Processing and Control"
+        position: "Reviewer (Elsevier)"
+        start_date: 2024-09
+        end_date: present
+        summary: https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control
+
+      - company: "International Journal of Imaging Systems and Technology"
+        position: "Reviewer (Wiley)"
+        start_date: 2026-09
+        end_date: present
+        summary: https://onlinelibrary.wiley.com/journal/10981098
+
+      - company: "Cancer Control"
+        position: "Reviewer (Sage)"
+        summary: https://journals.sagepub.com/home/CCX
+
+      - company: "Journal of Applied Intelligent Systems & Information Sciences (JAISIS)"
+        position: "Reviewer (FANAP)"
+        start_date: 2021-05
+        end_date: present
+        summary: https://journal.research.fanap.com/
 
     Skills:
       - name: Generative AI and LLMs
         level: Advanced
         icon: fa-solid fa-wand-magic-sparkles
-        keywords: "Generative AI, GenAI models, Large Language Models (LLM), Local LLMs, Retrieval-Augmented Generation (RAG), Prompt Engineering, Fine Tuning, Finetuning Large Language Models, Pretraining LLMs, Hugging Face, Transformers, Vector indexing, Voice Chat"
+        keywords: Generative AI, GenAI models, Large Language Models (LLM), Local LLMs, Retrieval-Augmented Generation (RAG), Prompt Engineering, Fine Tuning, Finetuning Large Language Models, Pretraining LLMs, Hugging Face, Transformers, Vector indexing, Voice Chat
       - name: Medical Image Analysis
         level: Advanced
         icon: fa-solid fa-microscope
-        keywords: "Medical Image Analysis, Histopathology image analysis, Digital Pathology, Foundation Models, Graph Neural Networks, Image Retrieval, Image classification"
+        keywords: Medical Image Analysis, Histopathology image analysis, Digital Pathology, Foundation Models, Graph Neural Networks, Image Retrieval, Image classification
       - name: Computer Vision
         level: Advanced
         icon: fa-solid fa-eye
-        keywords: "Computer Vision, OpenCV, Detectron2, Digital Image Processing, Image Analysis, Image Search, Facial Recognition, Speaker Recognition, Transfer Learning, Approximate Nearest Neighbor Search"
+        keywords: Computer Vision, OpenCV, Detectron2, Digital Image Processing, Image Analysis, Image Search, Facial Recognition, Speaker Recognition, Transfer Learning, Approximate Nearest Neighbor Search
       - name: Machine Learning and Deep Learning
         level: Advanced
         icon: fa-solid fa-brain
-        keywords: "Machine Learning, Deep Learning, Neural Networks, PyTorch, TensorFlow, Keras, Gradient Boosting (CatBoost, LightGBM, XGBoost), Recommender Systems, Artificial Intelligence"
+        keywords: Machine Learning, Deep Learning, Neural Networks, PyTorch, TensorFlow, Keras, Gradient Boosting (CatBoost, LightGBM, XGBoost), Recommender Systems, Artificial Intelligence
       - name: Programming and Tools
         level: Advanced
         icon: fa-solid fa-code
-        keywords: "Python, Matlab, NetLogo, Git, LaTeX, Flask, RESTful WebServices, Postman, Programming"
+        keywords: Python, Matlab, NetLogo, Git, LaTeX, Flask, RESTful WebServices, Postman, Programming
       - name: Data
         level: Advanced
         icon: fa-solid fa-chart-column
-        keywords: "Data Science, Data Analysis, Data Analytics, Data Visualization, Tableau, DASK, SQL, Elasticsearch"
+        keywords: Data Science, Data Analysis, Data Analytics, Data Visualization, Tableau, DASK, SQL, Elasticsearch
       - name: Research and Professional
         level: Advanced
         icon: fa-solid fa-flask
-        keywords: "Research, Research and Development (R&D), Agile Methodologies, Microsoft Office, WordPress"
+        keywords: Research, Research and Development (R&D), Agile Methodologies, Microsoft Office, WordPress
       - name: LinkedIn Skill Assessments passed
         level: Verified
         icon: fa-brands fa-linkedin
-        keywords: "Python, Machine Learning, Matlab, Agile Methodologies, Git"
-
+        keywords: Python, Machine Learning, Matlab, Agile Methodologies, Git
     Languages:
       - name: Persian
-        summary: "Native speaker"
-
+        summary: Native speaker
       - name: English
-        summary: "C1"
-
+        summary: C1
       - name: German
-        summary: "A2"
-
+        summary: A2
     Interests:
       - name: Medical Image Analysis
         icon: fa-solid fa-tag
-        keywords: "Content-based Image Retrieval, Histopathology, Foundation Models"
+        keywords: Content-based Image Retrieval, Histopathology, Foundation Models
       - name: Graph Neural Networks
         icon: fa-solid fa-hashtag
-        keywords: "Graph Convolutional Networks, Graph Autoencoders, Generative Models"
+        keywords: Graph Convolutional Networks, Graph Autoencoders, Generative Models
       - name: Applied AI
         icon: fa-solid fa-tag
-        keywords: "RAG, Speech Pipelines, Face and Speaker Recognition, Recommender Systems"
-
+        keywords: RAG, Speech Pipelines, Face and Speaker Recognition, Recommender Systems
     Certificates:
       - name: Pretraining LLMs
         date: 2025-04
@@ -360,26 +301,17 @@ cv:
         date: 2018-07
         issuer: Institute for Research in Fundamental Sciences (IPM)
         icon: fa-solid fa-certificate
-
     Projects:
       - name: Medical Image Retrieval with Foundation Models
-        summary: Evaluation of pre-trained CNNs and medical foundation models as feature extractors for content-based medical image retrieval.
-        highlights:
-          - https://github.com/nematollahsaeidi/Medical-Image-Retrieval
+        summary: "Evaluation of pre-trained CNNs and medical foundation models as feature extractors for content-based medical image retrieval. Code: https://github.com/nematollahsaeidi/Medical-Image-Retrieval"
       - name: Histology Image Classification with GNNs
-        summary: Medical image classification using foundation model features in a graph neural network.
-        highlights:
-          - https://github.com/nematollahsaeidi/his_img_GNN_classification
+        summary: "Medical image classification using foundation model features in a graph neural network. Code: https://github.com/nematollahsaeidi/his_img_GNN_classification"
       - name: Photo-Sketch
-        summary: Contour generation from input images for drawing-robot motion planning.
-        highlights:
-          - https://github.com/nematollahsaeidi/Photo-Sketch
-
+        summary: "Contour generation from input images for drawing-robot motion planning. Code: https://github.com/nematollahsaeidi/Photo-Sketch"
     References:
       - name: Amirreza Mahbod
         icon: fa-solid fa-user
         reference: Assistant Professor, Medical Image Analysis & Artificial Intelligence (MIAAI), Danube Private University (DPU), Vienna, Austria. amirreza.mahbod@dp-uni.ac.at
-
       - name: Vahid Hajipour
         icon: fa-solid fa-user
         reference: Assistant Professor, Industrial Engineering, Altinbas University, Istanbul, Turkey; Head of Research Center, FANAP Co., Tehran, Iran. vahid.hajipour@altinbas.edu.tr
