@@ -12,9 +12,11 @@ toc:
 ---
 
 <style>
-  /* hide the small dot and the thin line next to the blue date badges */
-  ul.timeline li { list-style: none !important; }
-  ul.timeline li::before,
-  ul.timeline li::after { display: none !important; content: none !important; }
-  ul.timeline li::marker { content: "" !important; font-size: 0 !important; }
+  /* hide the dot (list marker) next to the blue date badges in all CV sections;
+     the bullets of the highlight lists inside each entry are kept */
+  ul.list-group > li.list-group-item { list-style: none !important; }
+  ul.list-group > li.list-group-item::marker { content: "" !important; font-size: 0 !important; }
+  ul.timeline > li { list-style: none !important; }
+  ul.timeline > li::before,
+  ul.timeline > li::after { display: none !important; content: none !important; }
 </style>
