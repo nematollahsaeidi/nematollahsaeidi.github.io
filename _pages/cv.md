@@ -10,3 +10,11 @@ description: Curriculum vitae of Nematollah (Emad) Saeidi.
 toc:
   sidebar: left
 ---
+
+<style>
+  /* hide the small dot and the thin line next to the blue date badges */
+  ul.timeline li { list-style: none !important; }
+  ul.timeline li::before,
+  ul.timeline li::after { display: none !important; content: none !important; }
+  ul.timeline li::marker { content: "" !important; font-size: 0 !important; }
+</style>
