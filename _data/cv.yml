@@ -174,40 +174,25 @@ cv:
           - H. M. Mohammadi
         publisher: 2017 7th International Conference on Computer and Knowledge Engineering (ICCKE), Mashhad, pp. 47-52, IEEE
         releaseDate: 2017
-    Volunteer:
-      - company: "Applied Soft Computing"
-        position: "Reviewer (Elsevier)"
-        start_date: 2026-07
-        end_date: present
-        summary: https://www.sciencedirect.com/journal/applied-soft-computing
-
-      - company: "Computer Methods and Programs in Biomedicine"
-        position: "Reviewer (Elsevier)"
-        start_date: 2026-06
-        end_date: present
-        summary: https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine
-
-      - company: "Biomedical Signal Processing and Control"
-        position: "Reviewer (Elsevier)"
-        start_date: 2024-09
-        end_date: present
-        summary: https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control
-
-      - company: "International Journal of Imaging Systems and Technology"
-        position: "Reviewer (Wiley)"
-        start_date: 2026-09
-        end_date: present
-        summary: https://onlinelibrary.wiley.com/journal/10981098
-
-      - company: "Cancer Control"
-        position: "Reviewer (Sage)"
-        summary: https://journals.sagepub.com/home/CCX
-
-      - company: "Journal of Applied Intelligent Systems & Information Sciences (JAISIS)"
-        position: "Reviewer (FANAP)"
-        start_date: 2021-05
-        end_date: present
-        summary: https://journal.research.fanap.com/
+    Reviewer:
+      - name: "Applied Soft Computing"
+        icon: fa-solid fa-user-check
+        keywords: "Elsevier, Jul 2026 - present"
+      - name: "Computer Methods and Programs in Biomedicine"
+        icon: fa-solid fa-user-check
+        keywords: "Elsevier, Jun 2026 - present"
+      - name: "Biomedical Signal Processing and Control"
+        icon: fa-solid fa-user-check
+        keywords: "Elsevier, Sep 2024 - present"
+      - name: "International Journal of Imaging Systems and Technology"
+        icon: fa-solid fa-user-check
+        keywords: "Wiley, Sep 2026 - present"
+      - name: "Cancer Control"
+        icon: fa-solid fa-user-check
+        keywords: "Sage"
+      - name: "Journal of Applied Intelligent Systems & Information Sciences (JAISIS)"
+        icon: fa-solid fa-user-check
+        keywords: "FANAP, May 2021 - present"
 
     Skills:
       - name: Generative AI and LLMs
