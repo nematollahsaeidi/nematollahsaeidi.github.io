@@ -42,7 +42,7 @@ cv:
         summary: Developed a local RAG-based voice chat using LangChain, Ollama LLM, JSON/ChromaDB and Sentence Transformers, with few-shot prompting and conversation memory for dialogues in voice mode. Integrated Whisper (speech-to-text), a RAG-enhanced LLM and Coqui TTS into a full speech pipeline. Implemented real-time speaker recognition with NVIDIA NeMo TitaNet and Resemblyzer, including voice activity detection and acoustic feature extraction. Implemented real-time face recognition pipelines with YOLO for detection and ArcFace ResNet100 / InsightFace models for recognition.
       - company: Danube Private University Austria (DPU), MIAAI Group
         position: AI Researcher
-        location: TFZ Technologie- und Forschungszentrum Wr. Neustadt, Austria (Hybrid)
+        location: TFZ, Austria (Hybrid)
         start_date: 2023-09
         end_date: present
         summary: Histopathological image classification by nuclei-based graph convolutional networks and foundation models. Content-based medical image retrieval using graph neural networks. Image classification, graph neural networks, foundation models, histopathology image analysis, nuclei segmentation and generative models.
