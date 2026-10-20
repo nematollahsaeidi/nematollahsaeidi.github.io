@@ -193,7 +193,15 @@ cv:
       - name: "Journal of Applied Intelligent Systems & Information Sciences (JAISIS)"
         icon: fa-solid fa-user-check
         keywords: "FANAP, May 2021 - present"
-
+    Reviewer:
+      - name: Journals for which I serve as a peer reviewer
+        highlights:
+          - "[Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing), Elsevier (Jul 2026 – present)"
+          - "[Computer Methods and Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine), Elsevier (Jun 2026 – present)"
+          - "[Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control), Elsevier (Sep 2024 – present)"
+          - "[International Journal of Imaging Systems and Technology](https://onlinelibrary.wiley.com/journal/10981098), Wiley (Sep 2026 – present)"
+          - "[Cancer Control](https://journals.sagepub.com/home/ccx), SAGE"
+          - "[Journal of Applied Intelligent Systems & Information Sciences (JAISIS)](https://jaisis.khatam.ac.ir/), FANAP (May 2021 – present)"
     Skills:
       - name: Generative AI and LLMs
         level: Advanced
