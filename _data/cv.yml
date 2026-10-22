@@ -175,25 +175,6 @@ cv:
         publisher: 2017 7th International Conference on Computer and Knowledge Engineering (ICCKE), Mashhad, pp. 47-52, IEEE
         releaseDate: 2017
     Reviewer:
-      - name: "Applied Soft Computing"
-        icon: fa-solid fa-user-check
-        keywords: "Elsevier, Jul 2026 - present"
-      - name: "Computer Methods and Programs in Biomedicine"
-        icon: fa-solid fa-user-check
-        keywords: "Elsevier, Jun 2026 - present"
-      - name: "Biomedical Signal Processing and Control"
-        icon: fa-solid fa-user-check
-        keywords: "Elsevier, Sep 2024 - present"
-      - name: "International Journal of Imaging Systems and Technology"
-        icon: fa-solid fa-user-check
-        keywords: "Wiley, Sep 2026 - present"
-      - name: "Cancer Control"
-        icon: fa-solid fa-user-check
-        keywords: "Sage"
-      - name: "Journal of Applied Intelligent Systems & Information Sciences (JAISIS)"
-        icon: fa-solid fa-user-check
-        keywords: "FANAP, May 2021 - present"
-    Reviewer:
       - name: Journals for which I serve as a peer reviewer
         highlights:
           - "[Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing), Elsevier (Jul 2026 – present)"
