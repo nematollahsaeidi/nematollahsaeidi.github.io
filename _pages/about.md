@@ -13,7 +13,7 @@ profile:
     <p>Danube Private University</p>
     <p>Wiener Neustadt, Austria</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -35,4 +35,4 @@ My expertise includes retrieval, classification, clustering, and image analysis,
 
 I was awarded the **Ernst Mach Grant of the Austrian Agency for International Cooperation in Education and Research (OeAD)** in 2023 and 2024 for research stays at MIAAI, Danube Private University.
 
-Feel free to browse my [publications](/publications/), [projects](/projects/), [CV](/cv/), and [code on GitHub](https://github.com/nematollahsaeidi).
+If you are interested in collaboration or discussion, feel free to contact me via email.
