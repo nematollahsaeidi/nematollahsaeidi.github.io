@@ -3,7 +3,7 @@ layout: cv
 permalink: /cv/
 title: CV
 nav: true
-nav_order: 6
+nav_order: 1
 cv_pdf: /assets/pdf/Nematollah_Saeidi_CV.pdf # you can also use external links here
 cv_format: rendercv # options: rendercv, jsonresume
 description: Curriculum vitae of Nematollah (Emad) Saeidi.
