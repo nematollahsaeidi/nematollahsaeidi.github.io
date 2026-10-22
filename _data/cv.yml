@@ -389,7 +389,7 @@ cv:
       - bullet: "**Statistical Pattern Recognition** — Graduate Teaching Assistant, University of Isfahan, Iran (Jan 2016–Jun 2017), under the supervision of Dr. Peyman Adibi."
       - bullet: "**Algorithm Design** — Graduate Teaching Assistant, University of Isfahan, Iran (Jan 2016–Jun 2017), under the supervision of Dr. Peyman Adibi."
     Languages:
-      - bullet: '<div style="display:flex;justify-content:space-between;gap:1rem;"><span><strong>Persian:</strong> Native speaker</span><span><strong>English:</strong> C1</span><span><strong>German:</strong> A2</span></div>'
+      - bullet: "**Persian:** Native speaker  |  **English:** C1  |  **German:** A2"
     Interests:
       - name: Medical Image Analysis
         icon: fa-solid fa-tag
