@@ -1,9 +1,9 @@
 cv:
   name: Nematollah (Emad) Saeidi
-  label: AI/ML Engineer and Researcher
+  headline: AI/ML Engineer and Researcher
   email: nemat.saeidi@gmail.com
   location: Wiener Neustadt, Austria
-  image: ""
+  photo: ""
   summary: AI researcher working on content-based medical image retrieval, graph neural networks, foundation models and histopathology image analysis.
   social_networks:
     - network: GitHub
