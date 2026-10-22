@@ -3,14 +3,14 @@ cv:
   headline: AI/ML Engineer and Researcher
   email: nemat.saeidi@gmail.com
   location: Wiener Neustadt, Austria
-  photo: ""
-  summary: AI researcher working on content-based medical image retrieval, graph neural networks, foundation models and histopathology image analysis.
   social_networks:
     - network: GitHub
       username: nematollahsaeidi
     - network: LinkedIn
       username: nematollah-saeidi
   sections:
+    Summary:
+      - AI researcher working on content-based medical image retrieval, graph neural networks, foundation models and histopathology image analysis.
     Education:
       - institution: University of Isfahan
         location: Isfahan, Iran
