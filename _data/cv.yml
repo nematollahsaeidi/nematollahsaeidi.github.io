@@ -15,6 +15,12 @@ cv:
   sections:
     Summary:
       - bullet: AI/ML engineer and researcher working across applied machine learning, computer vision, generative AI, and medical image analysis. Experience spans local RAG voice assistants, speaker and face recognition, visual search, recommendation systems, customer analytics, and research on graph neural networks and foundation models for medical image retrieval.
+    Personal Links:
+      - bullet: "[Personal website](https://nematollahsaeidi.github.io/)"
+      - bullet: "[LinkedIn](https://www.linkedin.com/in/nematollah-saeidi/)"
+      - bullet: "[GitHub](https://github.com/nematollahsaeidi)"
+      - bullet: "[Google Scholar](https://scholar.google.com/citations?user=8kg-cF4AAAAJ&hl=en)"
+      - bullet: "[ORCID](https://orcid.org/0009-0005-0797-1058)"
     Experience:
       - company: Hyrcan Technology Development Co.
         position: AI Engineer
@@ -389,7 +395,8 @@ cv:
       - bullet: "**Statistical Pattern Recognition** — Graduate Teaching Assistant, University of Isfahan, Iran (Jan 2016–Jun 2017), under the supervision of Dr. Peyman Adibi."
       - bullet: "**Algorithm Design** — Graduate Teaching Assistant, University of Isfahan, Iran (Jan 2016–Jun 2017), under the supervision of Dr. Peyman Adibi."
     Languages:
-      - bullet: "**Persian:** Native speaker  |  **English:** C1  |  **German:** A2"
+      - name: Spoken
+        summary: Persian (native), English (C1), German (A2)
     Interests:
       - name: Medical Image Analysis
         icon: fa-solid fa-tag
