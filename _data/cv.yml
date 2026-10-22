@@ -15,23 +15,23 @@ cv:
       - institution: University of Isfahan
         location: Isfahan, Iran
         area: Artificial Intelligence
-        studyType: PhD
-        start_date: 2019
+        degree: PhD
+        start_date: "2019"
         end_date: 2026-10
         summary: "Thesis: Content-based Medical Image Retrieval Using Graph Neural Networks."
       - institution: University of Isfahan
         location: Isfahan, Iran
         area: Artificial Intelligence
-        studyType: MSc
-        start_date: 2015
-        end_date: 2017
+        degree: MSc
+        start_date: "2015"
+        end_date: "2017"
         summary: "Thesis: Learning Multi-Objective Binary Features for Image Representation and Recognition."
       - institution: Islamic Azad University Najaf Abad
         location: Isfahan, Iran
         area: Software Engineering
-        studyType: BSc
-        start_date: 2010
-        end_date: 2013
+        degree: BSc
+        start_date: "2010"
+        end_date: "2013"
         summary: "Thesis: Intelligent Agent-based Social Simulation Model using Reinforcement Learning."
     Experience:
       - company: Hyrcan Technology Development Co.
@@ -74,34 +74,34 @@ cv:
       - title: Ernst Mach Grant, OeAD (Austrian Agency for International Cooperation in Education and Research)
         authors:
           - OeAD
-        date: 2024
+        date: "2024"
         awarder: OeAD
         summary: Research stay at Medical Image Analysis & Artificial Intelligence (MIAAI), Danube Private University (DPU), Austria.
       - title: Ernst Mach Grant, OeAD (Austrian Agency for International Cooperation in Education and Research)
         authors:
           - OeAD
-        date: 2023
+        date: "2023"
         awarder: OeAD
         summary: Research stay at Medical Image Analysis & Artificial Intelligence (MIAAI), Danube Private University (DPU), Austria.
       - title: Third place in the call to solve business challenges
         authors:
           - FANAP Co.
-        date: 2021
+        date: "2021"
         awarder: FANAP Co., Tehran, Iran
       - title: Second in the graduating class, MSc in Computer Engineering (Artificial Intelligence)
         authors:
           - University of Isfahan
-        date: 2017
+        date: "2017"
         awarder: Department of Artificial Intelligence Engineering, University of Isfahan, Iran
       - title: Top two percent of graduated students, ranked 3rd among 158 BSc graduates in Computer Engineering
         authors:
           - Islamic Azad University Najaf Abad
-        date: 2013
+        date: "2013"
         awarder: Department of Computer Engineering, Islamic Azad University Najaf Abad, Iran
       - title: Top Student, scholarships for two semesters
         authors:
           - Islamic Azad University Najaf Abad
-        date: 2011
+        date: "2011"
         awarder: Islamic Azad University Najaf Abad, Iran
     Publications:
       - title: "Unfolding Graph Convolutional Networks: Architectures, Use Cases, and Trends"
@@ -110,8 +110,8 @@ cv:
           - Vahid Hajipour
           - S. Hekmat
           - B. Shoushtarian
-        publisher: Applied Soft Computing (IF~8.2, Q1)
-        releaseDate: 2026
+        journal: Applied Soft Computing (IF~8.2, Q1)
+        date: "2026"
         url: https://doi.org/10.1016/j.asoc.2026.115122
       - title: Evaluating Pre-trained Convolutional Neural Networks and Foundation Models as Feature Extractors for Content-based Medical Image Retrieval
         authors:
@@ -119,8 +119,8 @@ cv:
           - Nematollah Saeidi
           - S. Hatamikia
           - R. Woitek
-        publisher: Engineering Applications of Artificial Intelligence (IF~8, Q1)
-        releaseDate: 2025
+        journal: Engineering Applications of Artificial Intelligence (IF~8, Q1)
+        date: "2025"
         url: https://doi.org/10.1016/j.engappai.2025.110571
       - title: Leveraging Medical Foundation Model Features in Graph Neural Network-Based Retrieval of Breast Histopathology Images
         authors:
@@ -130,50 +130,50 @@ cv:
           - S. Hatamikia
           - R. Woitek
           - Amirreza Mahbod
-        publisher: International Journal of Imaging Systems and Technology (IF~3.3, Q2)
-        releaseDate: 2025
+        journal: International Journal of Imaging Systems and Technology (IF~3.3, Q2)
+        date: "2025"
       - title: Integrating Foundation Model Features into Graph Neural Network and Fusing Predictions with Standard Fine-Tuned Models for Histology Image Classification
         authors:
           - Nematollah Saeidi
           - N. Torbati
           - R. Woitek
           - Amirreza Mahbod
-        publisher: Bioengineering, 12, 1332 (IF~3.7, Q2)
-        releaseDate: 2025
+        journal: Bioengineering, 12, 1332 (IF~3.7, Q2)
+        date: "2025"
         url: https://doi.org/10.3390/bioengineering12121332
       - title: Incorporating Shape Dependent Power Law in Motion Planning for Drawing Robots
         authors:
           - M. Abedinzadeh Shahri
           - Nematollah Saeidi
           - Vahid Hajipour
-        publisher: Robotics and Autonomous Systems, 182, 104801 (IF~4.3, Q1)
-        releaseDate: 2024
+        journal: Robotics and Autonomous Systems, 182, 104801 (IF~4.3, Q1)
+        date: "2024"
       - title: "Artificial Intelligence and Clinical Decision Making: Approaches and Challenges"
         authors:
           - Nematollah Saeidi
           - M. Torabi
-        publisher: Journal of Applied Intelligent Systems and Information Sciences, 3(2), 43-55
-        releaseDate: 2022
+        journal: Journal of Applied Intelligent Systems and Information Sciences, 3(2), 43-55
+        date: "2022"
       - title: Attention-Based and Positional-Aware Neural Networks for Next-Item Recommendation
         authors:
           - Nematollah Saeidi
           - H. Shahamat
-        publisher: Journal of Applied Intelligent Systems and Information Sciences, 2(1), 29-40
-        releaseDate: 2021
+        journal: Journal of Applied Intelligent Systems and Information Sciences, 2(1), 29-40
+        date: "2021"
       - title: Single Sample Face Recognition Using Multicross Pattern and Learning Discriminative Binary Features
         authors:
           - Nematollah Saeidi
           - H. Karshenas
           - H. M. Mohammadi
-        publisher: Journal of Applied Security Research, 14(2), 169-190 (IF~1.2, Q2)
-        releaseDate: 2019
+        journal: Journal of Applied Security Research, 14(2), 169-190 (IF~1.2, Q2)
+        date: "2019"
       - title: Learning Multi-Objective Binary Features for Image Representation
         authors:
           - Nematollah Saeidi
           - H. Karshenas
           - H. M. Mohammadi
-        publisher: 2017 7th International Conference on Computer and Knowledge Engineering (ICCKE), Mashhad, pp. 47-52, IEEE
-        releaseDate: 2017
+        journal: 2017 7th International Conference on Computer and Knowledge Engineering (ICCKE), Mashhad, pp. 47-52, IEEE
+        date: "2017"
     Reviewer:
       - name: Journals for which I serve as a peer reviewer
         highlights:
