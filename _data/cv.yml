@@ -3,6 +3,8 @@ cv:
   headline: AI/ML Engineer and Researcher
   email: nemat.saeidi@gmail.com
   location: Wiener Neustadt, Austria
+  summary: >-
+    AI/ML engineer and researcher working across applied machine learning, computer vision, generative AI, and medical image analysis. Experience spans local RAG voice assistants, speaker and face recognition, visual search, recommendation systems, customer analytics, and research on graph neural networks and foundation models for medical image retrieval.
   social_networks:
     - network: GitHub
       username: nematollahsaeidi
@@ -14,7 +16,8 @@ cv:
       username: 0009-0005-0797-1058
   sections:
     Summary:
-      - bullet: AI/ML engineer and researcher working across applied machine learning, computer vision, generative AI, and medical image analysis. Experience spans local RAG voice assistants, speaker and face recognition, visual search, recommendation systems, customer analytics, and research on graph neural networks and foundation models for medical image retrieval.
+      - name: AI/ML Engineer and Researcher
+        summary: working across applied machine learning, computer vision, generative AI, and medical image analysis. Experience spans local RAG voice assistants, speaker and face recognition, visual search, recommendation systems, customer analytics, and research on graph neural networks and foundation models for medical image retrieval.
     Personal Links:
       - bullet: "[Personal website](https://nematollahsaeidi.github.io/)"
       - bullet: "[LinkedIn](https://www.linkedin.com/in/nematollah-saeidi/)"
@@ -252,12 +255,12 @@ cv:
         date: "2011"
         awarder: Islamic Azad University Najaf Abad, Iran
     Reviewer:
-      - bullet: "[Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing), Elsevier (Jul 2026 – present)"
-      - bullet: "[Computer Methods and Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine), Elsevier (Jun 2026 – present)"
-      - bullet: "[Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control), Elsevier (Sep 2024 – present)"
-      - bullet: "[International Journal of Imaging Systems and Technology](https://onlinelibrary.wiley.com/journal/10981098), Wiley (Sep 2026 – present)"
+      - bullet: "[Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing), Elsevier"
+      - bullet: "[Computer Methods and Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine), Elsevier"
+      - bullet: "[Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control), Elsevier"
+      - bullet: "[International Journal of Imaging Systems and Technology](https://onlinelibrary.wiley.com/journal/10981098), Wiley"
       - bullet: "[Cancer Control](https://journals.sagepub.com/home/ccx), SAGE"
-      - bullet: "[Journal of Applied Intelligent Systems & Information Sciences (JAISIS)](https://jaisis.khatam.ac.ir/), FANAP (May 2021 – present)"
+      - bullet: "[Journal of Applied Intelligent Systems & Information Sciences (JAISIS)](https://jaisis.khatam.ac.ir/), FANAP"
     Skills:
       - name: Generative AI and LLMs
         level: Advanced
