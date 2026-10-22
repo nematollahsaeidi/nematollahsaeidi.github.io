@@ -4,7 +4,7 @@ permalink: /certificates/
 title: certificates
 description: Courses, schools and professional training.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:1.5rem;">
