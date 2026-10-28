@@ -13,7 +13,7 @@ toc:
 
 <style>
   /* hide the dot (list marker) next to the blue date badges in all CV sections;
-     the bullets of the highlight lists inside each entry are kept */
+     the bullets of the highlight lists inside each entry are kept */   
   ul.list-group > li.list-group-item { list-style: none !important; }
   ul.list-group > li.list-group-item::marker { content: "" !important; font-size: 0 !important; }
   ul.timeline > li { list-style: none !important; }
