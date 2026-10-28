@@ -8,7 +8,7 @@ cv_pdf: /assets/pdf/Nematollah_Saeidi_CV.pdf # you can also use external links h
 cv_format: rendercv # options: rendercv, jsonresume
 description: Curriculum vitae of Emad (Nematollah) Saeidi.
 toc:
-  sidebar: left
+  sidebar: left
 ---
 <style>
   /* hide the dot (list marker) next to the blue date badges in all CV sections;
