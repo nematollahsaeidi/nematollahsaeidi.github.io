@@ -1,5 +1,4 @@
----
-layout: cv
+## layout: cv
 permalink: /cv/
 title: CV
 nav: true
@@ -8,12 +7,10 @@ cv_pdf: /assets/pdf/Nematollah_Saeidi_CV.pdf # you can also use external links h
 cv_format: rendercv # options: rendercv, jsonresume
 description: Curriculum vitae of Emad (Nematollah) Saeidi.
 toc:
-  sidebar: left
----
-
+  sidebar: left
 <style>
   /* hide the dot (list marker) next to the blue date badges in all CV sections;
-     the bullets of the highlight lists inside each entry are kept */   
+     the bullets of the highlight lists inside each entry are kept */
   ul.list-group > li.list-group-item { list-style: none !important; }
   ul.list-group > li.list-group-item::marker { content: "" !important; font-size: 0 !important; }
   ul.timeline > li { list-style: none !important; }
