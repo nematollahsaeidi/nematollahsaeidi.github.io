@@ -8,6 +8,7 @@ cv_format: rendercv # options: rendercv, jsonresume
 description: Curriculum vitae of Emad (Nematollah) Saeidi.
 toc:
   sidebar: left
+  
 <style>
   /* hide the dot (list marker) next to the blue date badges in all CV sections;
      the bullets of the highlight lists inside each entry are kept */
