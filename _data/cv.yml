@@ -222,6 +222,11 @@ cv:
           - FANAP Co.
         date: "2021"
         awarder: FANAP Co., Tehran, Iran
+      - title: Exceptional Talent Award for the Ph.D. Program in Artificial Intelligence (Without National Entrance Exam)
+        authors:
+          - University of Isfahan
+        date: "2019"
+        awarder: Department of Artificial Intelligence Engineering, University of Isfahan, Iran
       - title: Second in the graduating class, MSc in Computer Engineering (Artificial Intelligence)
         authors:
           - University of Isfahan
