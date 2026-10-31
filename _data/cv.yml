@@ -69,14 +69,6 @@ cv:
           - "Marketing analysis and product prediction (Oct 2018–Feb 2019): applied CatBoost, XGBoost, LightGBM, ensemble methods, and multilayer perceptrons across business datasets."
           - Collaborated on fraud detection, chatbot, video surveillance, recommendation, and customer behavior analysis services.
           - Worked in two-week agile sprints with daily standups, retrospectives, backlog grooming, and continuous integration.
-      - company: University of Isfahan
-        position: Research Assistant
-        location: Isfahan, Iran (On-site)
-        start_date: 2019-10
-        end_date: 2023-07
-        summary: Conducted research on content-based medical image retrieval using graph neural networks.
-        highlights:
-          - Worked with graph neural networks, generative models, and foundation models for medical image analysis and retrieval.
     Education:
       - institution: University of Isfahan
         location: Isfahan, Iran
