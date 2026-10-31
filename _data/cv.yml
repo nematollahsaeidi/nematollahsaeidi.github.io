@@ -255,48 +255,39 @@ cv:
     Skills:
       - name: Generative AI and LLMs
         level: Advanced
-        icon: fa-solid fa-wand-magic-sparkles
         keywords: Generative AI, GenAI models, Large Language Models (LLM), Local LLMs, Retrieval-Augmented Generation (RAG), Prompt Engineering, Fine Tuning, Finetuning Large Language Models, Pretraining LLMs, Hugging Face, Transformers, Vector indexing, Voice Chat, LangChain, Ollama, Sentence Transformers, Whisper, Coqui TTS, ChromaDB
         summary: Generative AI, GenAI models, Large Language Models (LLM), Local LLMs, Retrieval-Augmented Generation (RAG), Prompt Engineering, Fine Tuning, Finetuning Large Language Models, Pretraining LLMs, Hugging Face, Transformers, Vector indexing, Voice Chat, LangChain, Ollama, Sentence Transformers, Whisper, Coqui TTS, ChromaDB
       - name: Medical Image Analysis
         level: Advanced
-        icon: fa-solid fa-microscope
         keywords: Medical Image Analysis, Histopathology image analysis, Digital Pathology, Foundation Models, Graph Neural Networks, Image Retrieval, Image classification
         summary: Medical Image Analysis, Histopathology image analysis, Digital Pathology, Foundation Models, Graph Neural Networks, Image Retrieval, Image classification
       - name: Computer Vision
         level: Advanced
-        icon: fa-solid fa-eye
         keywords: Computer Vision, OpenCV, Detectron2, Digital Image Processing, Image Analysis, Image Search, Facial Recognition, Speaker Recognition, Transfer Learning, Approximate Nearest Neighbor Search, ImageAI, Darknet, YOLO, ArcFace, InsightFace, NVIDIA NeMo TitaNet, Resemblyzer
         summary: Computer Vision, OpenCV, Detectron2, Digital Image Processing, Image Analysis, Image Search, Facial Recognition, Speaker Recognition, Transfer Learning, Approximate Nearest Neighbor Search, ImageAI, Darknet, YOLO, ArcFace, InsightFace, NVIDIA NeMo TitaNet, Resemblyzer
       - name: Machine Learning and Deep Learning
         level: Advanced
-        icon: fa-solid fa-brain
         keywords: Machine Learning, Deep Learning, Neural Networks, PyTorch, TensorFlow, Keras, Gradient Boosting (CatBoost, LightGBM, XGBoost), Recommender Systems, Artificial Intelligence, Scikit-learn
         summary: Machine Learning, Deep Learning, Neural Networks, PyTorch, TensorFlow, Keras, Gradient Boosting (CatBoost, LightGBM, XGBoost), Recommender Systems, Artificial Intelligence, Scikit-learn
       - name: Programming and Tools
         level: Advanced
-        icon: fa-solid fa-code
         keywords: Python, Matlab, NetLogo, Git, LaTeX, Flask, RESTful WebServices, Postman, Programming, Pytest, Flask-RESTful, Docker, PyCharm, Jupyter, Anaconda, Linux, Windows
         summary: Python, Matlab, NetLogo, Git, LaTeX, Flask, RESTful WebServices, Postman, Programming, Pytest, Flask-RESTful, Docker, PyCharm, Jupyter, Anaconda, Linux, Windows
       - name: Data
         level: Advanced
-        icon: fa-solid fa-chart-column
         keywords: Data Science, Data Analysis, Data Analytics, Data Visualization, Tableau, DASK, SQL, Elasticsearch, NumPy, Pandas, Matplotlib, SQL Server, Faiss
         summary: Data Science, Data Analysis, Data Analytics, Data Visualization, Tableau, DASK, SQL, Elasticsearch, NumPy, Pandas, Matplotlib, SQL Server, Faiss
       - name: Research and Professional
         level: Advanced
-        icon: fa-solid fa-flask
         keywords: Research, Research and Development (R&D), Agile Methodologies, Microsoft Office, WordPress
         summary: Research, Research and Development (R&D), Agile Methodologies, Microsoft Office, WordPress
       - name: LinkedIn Skill Assessments passed
         level: Verified
-        icon: fa-brands fa-linkedin
         keywords: Python, Machine Learning, Matlab, Agile Methodologies, Git
         summary: Python, Machine Learning, Matlab, Agile Methodologies, Git
       - name: Web Development
         keywords: Bootstrap, CSS, JavaScript, WordPress
         summary: Bootstrap, CSS, JavaScript, WordPress
-        icon: fa-solid fa-code
     Projects:
       - name: Medical Image Retrieval with Foundation Models
         summary: Evaluation of pre-trained CNNs and medical foundation models as feature extractors for content-based medical image retrieval.
@@ -335,51 +326,42 @@ cv:
       - name: Pretraining LLMs
         date: 2025-04
         issuer: DeepLearning.AI
-        icon: fa-solid fa-certificate
         url: https://learn.deeplearning.ai/accomplishments/b7e0b2f6-5ac5-45dd-a5af-442689cc913f?usp=sharing
         summary: DeepLearning.AI
       - name: Finetuning Large Language Models
         date: 2025-03
         issuer: DeepLearning.AI
-        icon: fa-solid fa-certificate
         url: https://learn.deeplearning.ai/accomplishments/d7953221-639a-4242-9f30-e16989a46719?usp=sharing
         summary: DeepLearning.AI
       - name: Applied Plotting, Charting and Data Representation in Python
         date: 2022-10
         issuer: University of Michigan (Coursera)
-        icon: fa-solid fa-certificate
         url: https://www.coursera.org/account/accomplishments/certificate/FZUY5DRK9KDW
         summary: University of Michigan (Coursera)
       - name: Python Project for AI and Application Development
         date: 2022-09
         issuer: IBM
-        icon: fa-solid fa-certificate
         summary: IBM
       - name: Applied Machine Learning in Python
         date: 2022-05
         issuer: University of Michigan (Coursera)
-        icon: fa-solid fa-certificate
         url: https://coursera.org/share/2d37cd669713fe13686f15f3abd8f3ea
         summary: University of Michigan (Coursera)
       - name: Fifth IPM Advanced School on Computing and Artificial Intelligence
         date: 2021-09
         issuer: Institute for Research in Fundamental Sciences (IPM)
-        icon: fa-solid fa-certificate
         summary: Institute for Research in Fundamental Sciences (IPM)
       - name: Fourth IPM Advanced School on Computing and Artificial Intelligence
         date: 2020-08
         issuer: Institute for Research in Fundamental Sciences (IPM)
-        icon: fa-solid fa-certificate
         url: https://drive.google.com/file/d/15iiUW10yFgBsG9mTzx773369CldaWlx2/view?usp=sharing
         summary: Institute for Research in Fundamental Sciences (IPM)
       - name: IPM Advanced Data Science Summer School (ADS3)
         date: 2018-08
         issuer: Institute for Research in Fundamental Sciences (IPM)
-        icon: fa-solid fa-certificate
         summary: Institute for Research in Fundamental Sciences (IPM)
       - name: IPM Elementary Data Science Summer School (EDS3)
         issuer: Institute for Research in Fundamental Sciences (IPM)
-        icon: fa-solid fa-certificate
         summary: Institute for Research in Fundamental Sciences (IPM)
         start_date: 2018-06
         end_date: 2018-07
@@ -393,24 +375,19 @@ cv:
         summary: Persian (native), English (C1), German (A2)
     Interests:
       - name: Medical Image Analysis
-        icon: fa-solid fa-tag
         keywords: Content-based Image Retrieval, Histopathology, Foundation Models
         summary: Content-based Image Retrieval, Histopathology, Foundation Models
       - name: Graph Neural Networks
-        icon: fa-solid fa-hashtag
         keywords: Graph Convolutional Networks, Graph Autoencoders, Generative Models
         summary: Graph Convolutional Networks, Graph Autoencoders, Generative Models
       - name: Applied AI
-        icon: fa-solid fa-tag
         keywords: RAG, Speech Pipelines, Face and Speaker Recognition, Recommender Systems
         summary: RAG, Speech Pipelines, Face and Speaker Recognition, Recommender Systems
     References:
       - name: Amirreza Mahbod
-        icon: fa-solid fa-user
         reference: Assistant Professor, Medical Image Analysis & Artificial Intelligence (MIAAI), Danube Private University (DPU), Vienna, Austria. amirreza.mahbod@dp-uni.ac.at
         summary: Assistant Professor, Medical Image Analysis & Artificial Intelligence (MIAAI), Danube Private University (DPU), Vienna, Austria. amirreza.mahbod@dp-uni.ac.at
       - name: Vahid Hajipour
-        icon: fa-solid fa-user
         reference: Assistant Professor, Industrial Engineering, Altinbas University, Istanbul, Turkey; Head of Research Center, FANAP Co., Tehran, Iran. vahid.hajipour@altinbas.edu.tr
         summary: Assistant Professor, Industrial Engineering, Altinbas University, Istanbul, Turkey; Head of Research Center, FANAP Co., Tehran, Iran. vahid.hajipour@altinbas.edu.tr
   website: https://nematollahsaeidi.github.io/
