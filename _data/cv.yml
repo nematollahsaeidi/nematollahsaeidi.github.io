@@ -281,47 +281,75 @@ cv:
         level: Advanced
         keywords: Research, Research and Development (R&D), Agile Methodologies, Microsoft Office, WordPress
         summary: Research, Research and Development (R&D), Agile Methodologies, Microsoft Office, WordPress
-      - name: LinkedIn Skill Assessments passed
-        level: Verified
-        keywords: Python, Machine Learning, Matlab, Agile Methodologies, Git
-        summary: Python, Machine Learning, Matlab, Agile Methodologies, Git
-      - name: Web Development
-        keywords: Bootstrap, CSS, JavaScript, WordPress
-        summary: Bootstrap, CSS, JavaScript, WordPress
     Projects:
+      - name: Content-Based Medical Image Retrieval (CBMIR)
+        date: "2025"
+        summary: Explores vision and vision-language foundation models for content-based medical image retrieval across 2D and 3D medical images, and investigates the impact of image size on retrieval performance.
+        location: Danube Private University Austria (DPU)
       - name: Medical Image Retrieval with Foundation Models
+        date: "2025"
         summary: Evaluation of pre-trained CNNs and medical foundation models as feature extractors for content-based medical image retrieval.
         url: https://github.com/nematollahsaeidi/Medical-Image-Retrieval
       - name: Histology Image Classification with GNNs
+        date: "2025"
         summary: Medical image classification using foundation model features in a graph neural network.
         url: https://github.com/nematollahsaeidi/his_img_GNN_classification
-      - name: Photo-Sketch
-        summary: Contour generation from input images for drawing-robot motion planning.
+      - name: Contour Drawing for a Robot Motion Planning System
+        date: "2024"
+        summary: Python code to generate contours from input images based on shape-dependent characteristics, as input for a robot motion planning system implemented in MATLAB.
         url: https://github.com/nematollahsaeidi/Photo-Sketch
-      - name: Content-Based Medical Image Retrieval across 2D and 3D Images
-        summary: Investigated vision and vision-language foundation models for content-based retrieval across 2D and 3D medical images, including the effect of image size on retrieval performance.
-      - name: Automatic Number Plate Recognition
-        summary: Vehicle registration, vehicle-data search, and retrieval of records based on license plates.
-      - name: Chatbot User Interface
+        location: FANAP
+      - name: Automatic Number Plate Recognition System
+        date: "2021"
+        end_date: "2022"
+        summary: Vehicle registration, vehicle data search, top records by license plate, and attendance management for tracking user activity within specified time and date ranges.
+        location: FANAP
+      - name: Development of a ChatBot UI
+        date: "2021"
         summary: Developed a chatbot user interface.
-      - name: Fraud Detection and Transaction Analysis
-        summary: Analyzed transaction data and customer behavior to identify anomalies and potential fraud risks.
-      - name: Video Surveillance Attendance and Registration
-        summary: Implemented an API-based attendance and registration application using video surveillance.
-      - name: Object Detection Application
-        summary: Developed object detection and segmentation workflows using few-shot models and transfer learning, exposed through a REST API.
-      - name: Visual Search Application
-        summary: Combined object detection and recognition, color extraction, image crawling, transfer learning, and approximate nearest-neighbor search.
+        location: FANAP
+      - name: Fraud Detection
+        date: "2021"
+        summary: Web-based system for detecting potential fraudulent activities from user transaction data, combining data processing and user behavior analysis to identify anomalies or fraud risks.
+        location: FANAP
+      - name: Object Detection App
+        date: "2020"
+        end_date: "2021"
+        summary: Flask-based web application for detecting objects in images and retrieving visually similar images using deep learning and computer vision techniques.
+        location: FANAP
+      - name: Video Surveillance-Based Attendance and Register App
+        date: "2021"
+        summary: System for managing and tracking employee attendance, work hours, and personal data, with biometric authentication, data registration, and reporting.
+        location: FANAP
+      - name: Visual Search App
+        date: "2020"
+        end_date: "2021"
+        summary: Visual search combining object detection, recognition, color extraction, and background subtraction, with web crawling, transfer learning, and approximate nearest-neighbor search.
+        location: FANAP
       - name: Customer Behavior Analysis
-        summary: Built customer segmentation and clustering workflows, including SaaS metrics, KPIs, cluster ensembles, and numeric and categorical clustering for grocery retail.
+        date: "2019"
+        end_date: "2020"
+        summary: Clustering of customer behavior patterns in grocery retail using SaaS metrics, KPIs, segmentation, cluster ensembles, and numeric and categorical clustering methods.
+        location: FANAP
       - name: Recommendation System
-        summary: Developed sequence-to-sequence ranking, association rules, hybrid/content-based/collaborative filtering, customer clustering, and candidate-generation features.
+        date: "2019"
+        summary: Sequence-to-sequence ranking, association rules, hybrid/content-based/collaborative filtering, customer clustering, feature engineering for candidate generation, and data cleansing and database management.
+        location: FANAP
       - name: Marketing Analysis and Product Prediction
-        summary: Applied CatBoost, XGBoost, LightGBM, ensemble methods, and multilayer perceptrons to marketing and prediction datasets.
-      - name: Multi-Objective Binary Features for Image Representation and Recognition
-        summary: Developed MATLAB implementations for robust binary feature extraction for face recognition and image representation.
-      - name: Sugarscape Simulation with Reinforcement Learning
-        summary: Developed an agent-based social simulation model using reinforcement learning as part of undergraduate research.
+        date: "2018"
+        end_date: "2019"
+        summary: Marketing analysis and product prediction using CatBoost, XGBoost, LightGBM, ensemble methods, and multilayer perceptrons across business datasets.
+        location: FANAP
+      - name: Learning Multi-Objective Binary Features for Image Representation and Recognition
+        date: "2016"
+        end_date: "2017"
+        summary: MATLAB implementations for extracting robust binary features using Multi-Objective Binary Feature (MOBF) for face recognition and image representation.
+        location: University of Isfahan
+      - name: Standard Sugarscape Model using Reinforcement Learning
+        date: "2012"
+        end_date: "2013"
+        summary: Agent-based social simulation model using reinforcement learning.
+        location: Islamic Azad University, Najafabad Branch
     Certificates:
       - name: Pretraining LLMs
         date: 2025-04
