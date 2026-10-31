@@ -352,48 +352,46 @@ cv:
         location: Islamic Azad University, Najafabad Branch
     Certificates:
       - name: Pretraining LLMs
-        date: 2025-04
+        date: "2025"
         issuer: DeepLearning.AI
         url: https://learn.deeplearning.ai/accomplishments/b7e0b2f6-5ac5-45dd-a5af-442689cc913f?usp=sharing
         summary: DeepLearning.AI
       - name: Finetuning Large Language Models
-        date: 2025-03
+        date: "2025"
         issuer: DeepLearning.AI
         url: https://learn.deeplearning.ai/accomplishments/d7953221-639a-4242-9f30-e16989a46719?usp=sharing
         summary: DeepLearning.AI
       - name: Applied Plotting, Charting and Data Representation in Python
-        date: 2022-10
+        date: "2022"
         issuer: University of Michigan (Coursera)
         url: https://www.coursera.org/account/accomplishments/certificate/FZUY5DRK9KDW
         summary: University of Michigan (Coursera)
       - name: Python Project for AI and Application Development
-        date: 2022-09
+        date: "2022"
         issuer: IBM
         summary: IBM
       - name: Applied Machine Learning in Python
-        date: 2022-05
+        date: "2022"
         issuer: University of Michigan (Coursera)
         url: https://coursera.org/share/2d37cd669713fe13686f15f3abd8f3ea
         summary: University of Michigan (Coursera)
       - name: Fifth IPM Advanced School on Computing and Artificial Intelligence
-        date: 2021-09
+        date: "2021"
         issuer: Institute for Research in Fundamental Sciences (IPM)
         summary: Institute for Research in Fundamental Sciences (IPM)
       - name: Fourth IPM Advanced School on Computing and Artificial Intelligence
-        date: 2020-08
+        date: "2020"
         issuer: Institute for Research in Fundamental Sciences (IPM)
         url: https://drive.google.com/file/d/15iiUW10yFgBsG9mTzx773369CldaWlx2/view?usp=sharing
         summary: Institute for Research in Fundamental Sciences (IPM)
       - name: IPM Advanced Data Science Summer School (ADS3)
-        date: 2018-08
+        date: "2018"
         issuer: Institute for Research in Fundamental Sciences (IPM)
         summary: Institute for Research in Fundamental Sciences (IPM)
       - name: IPM Elementary Data Science Summer School (EDS3)
+        date: "2018"
         issuer: Institute for Research in Fundamental Sciences (IPM)
         summary: Institute for Research in Fundamental Sciences (IPM)
-        start_date: 2018-06
-        end_date: 2018-07
-        date: Jun–Jul 2018
     Teaching Assistant:
       - bullet: "**Machine Learning** — Graduate Teaching Assistant, University of Isfahan, Iran (Jan 2016–Jun 2017), under the supervision of Dr. Peyman Adibi."
       - bullet: "**Statistical Pattern Recognition** — Graduate Teaching Assistant, University of Isfahan, Iran (Jan 2016–Jun 2017), under the supervision of Dr. Peyman Adibi."
