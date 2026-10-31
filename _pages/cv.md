@@ -12,45 +12,46 @@ toc:
 ---
 
 <style>
-  /* ── حذف همهٔ نقاط (bullet) در کل صفحه CV ── */
+/* حذف کامل تمام bulletها در صفحه CV */
+.cv ul,
+.cv ol,
+.cv .list-group,
+.cv .list-group-flush,
+.cv .items,
+.cv ul.items {
+  list-style: none !important;
+  list-style-type: none !important;
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+}
 
-  .cv ul,
-  .cv ol,
-  .cv ul.list-group,
-  .cv ul.timeline {
-    list-style: none !important;
-    padding-left: 0 !important;
-    margin-left: 0 !important;
-  }
+.cv li,
+.cv .list-group-item,
+.cv .items > li,
+.cv ul.items > li {
+  list-style: none !important;
+  list-style-type: none !important;
+  list-style-image: none !important;
+}
 
-  .cv li,
-  .cv ul.list-group > li.list-group-item,
-  .cv ul.timeline > li {
-    list-style: none !important;
-    list-style-type: none !important;
-  }
+.cv li::marker,
+.cv .list-group-item::marker,
+.cv .items > li::marker {
+  content: none !important;
+  font-size: 0 !important;
+}
 
-  /* مخفی کردن ::marker و نقاط timeline */
-  .cv li::marker,
-  .cv ul li::marker,
-  .cv ol li::marker,
-  .cv ul.list-group > li.list-group-item::marker,
-  .cv ul.timeline > li::marker {
-    content: "" !important;
-    font-size: 0 !important;
-  }
-
-  .cv li::before,
-  .cv li::after,
-  .cv ul.list-group > li.list-group-item::before,
-  .cv ul.list-group > li.list-group-item::after,
-  .cv ul.timeline > li::before,
-  .cv ul.timeline > li::after {
-    display: none !important;
-    content: none !important;
-    width: 0 !important;
-    height: 0 !important;
-    background: none !important;
-    border: none !important;
-  }
+.cv li::before,
+.cv li::after,
+.cv .list-group-item::before,
+.cv .list-group-item::after,
+.cv .items > li::before,
+.cv .items > li::after {
+  content: none !important;
+  display: none !important;
+  width: 0 !important;
+  height: 0 !important;
+  background: none !important;
+  border: none !important;
+}
 </style>
