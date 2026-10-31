@@ -171,7 +171,7 @@ cv:
         releaseDate: "2024"
         doi: 10.1016/j.robot.2024.104801
       - title: "Artificial Intelligence and Clinical Decision Making: Approaches and Challenges"
-        url: https://doi.org/10.22034/JAISIS.2022.371239.1054
+        url: https://jaisis.khatam.ac.ir/article_163128.html
         authors:
           - Nematollah Saeidi
           - M. Torabi
@@ -181,7 +181,7 @@ cv:
         releaseDate: "2022"
         doi: 10.22034/JAISIS.2022.371239.1054
       - title: Attention-Based and Positional-Aware Neural Networks for Next-Item Recommendation
-        url: https://doi.org/10.22034/JAISIS.2021.304225.1033
+        url: https://jaisis.khatam.ac.ir/article_139007.html
         authors:
           - Nematollah Saeidi
           - H. Shahamat
