@@ -3,8 +3,6 @@ cv:
   headline: AI/ML Engineer and Researcher
   email: nemat.saeidi@gmail.com
   location: Wiener Neustadt, Austria
-  summary: >-
-    AI/ML engineer and researcher working across applied machine learning, computer vision, generative AI, and medical image analysis. Experience spans local RAG voice assistants, speaker and face recognition, visual search, recommendation systems, customer analytics, and research on graph neural networks and foundation models for medical image retrieval.
   social_networks:
     - network: GitHub
       username: nematollahsaeidi
@@ -15,6 +13,8 @@ cv:
     - network: ORCID
       username: 0009-0005-0797-1058
   sections:
+    Professional Summary:
+      - AI/ML engineer and researcher working across applied machine learning, computer vision, generative AI, and medical image analysis. Experience spans local RAG voice assistants, speaker and face recognition, visual search, recommendation systems, customer analytics, and research on graph neural networks and foundation models for medical image retrieval.
     Experience:
       - company: Hyrcan Technology Development Co.
         position: AI Engineer
