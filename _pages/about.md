@@ -9,9 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Medical Image Analysis &amp; Artificial Intelligence (MIAAI) Group</p>
-    <p>Danube Private University</p>
-    <p>Wiener Neustadt, Austria</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
