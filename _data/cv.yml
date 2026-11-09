@@ -1,10 +1,10 @@
 cv:
   name: Nematollah (Emad) Saeidi
-  headline: AI/ML Engineer and Researcher
+  headline: AI Engineer | OeAD Grant @ DPU (Austria) | PhD | Medical Image Analysis | Computational Pathology | GNNs & Foundation Models | RAG, Hybrid Search & Document AI
   email: nemat.saeidi@gmail.com
   location: Wiener Neustadt, Austria
   summary: >-
-    AI/ML engineer and researcher working across applied machine learning, computer vision, generative AI, and medical image analysis. Experience spans local RAG voice assistants, speaker and face recognition, visual search, recommendation systems, customer analytics, and research on graph neural networks and foundation models for medical image retrieval.
+    AI engineer and researcher (PhD in Artificial Intelligence) with 8 years of experience across applied machine learning, computer vision, generative AI, information retrieval, and medical image analysis. Currently the sole AI specialist at a startup, responsible for multilingual hybrid search and RAG over enterprise data, and for intelligent document processing with OCR, vision-language models, and LLM-based structured extraction. Research focuses on graph neural networks and foundation models for medical image retrieval and computational pathology, published in Q1/Q2 journals.
   social_networks:
     - network: GitHub
       username: nematollahsaeidi
@@ -16,11 +16,21 @@ cv:
       username: 0009-0005-0797-1058
   sections:
     Experience:
+      - company: Startup
+        position: AI Engineer
+        location: Tehran, Iran (Remote)
+        start_date: 2026-04
+        end_date: present
+        summary: Sole AI specialist at a startup, with end-to-end responsibility for the company's AI services.
+        highlights:
+          - "Multilingual (Persian/English) hybrid search over enterprise data: lexical and semantic retrieval, reranking, LLM-based relevance scoring, and grounded answer generation."
+          - "Asynchronous OCR and vision-language-model pipelines that convert documents and conversations into structured data, with LLM-based extraction, validation, and template-driven conversational generation."
+          - "Multi-provider LLM orchestration with failover and local fallback, PII redaction, observability, streaming APIs, and fully on-premises deployment for sensitive data."    
       - company: Hyrcan Technology Development Co.
         position: AI Engineer
         location: Tehran, Iran (Hybrid)
         start_date: 2025-11
-        end_date: present
+        end_date: 2026-03
         summary: Develop local generative AI and real-time identity recognition applications.
         highlights:
           - Built a local RAG-based voice assistant with LangChain, Ollama, JSON/ChromaDB, and Sentence Transformers.
