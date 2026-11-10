@@ -401,18 +401,18 @@ cv:
         issuer: Institute for Research in Fundamental Sciences (IPM)
         summary: Institute for Research in Fundamental Sciences (IPM)
     Teaching Assistant:
-        - name: Machine Learning
-          date: "2016"
-          end_date: "2017"
-          summary: "Graduate Teaching Assistant, University of Isfahan, Iran. Under the supervision of Dr. Peyman Adibi (Jan 2016–Jun 2017)."
-        - name: Statistical Pattern Recognition
-          date: "2016"
-          end_date: "2017"
-          summary: "Graduate Teaching Assistant, University of Isfahan, Iran. Under the supervision of Dr. Peyman Adibi (Jan 2016–Jun 2017)."
-        - name: Algorithm Design
-          date: "2016"
-          end_date: "2017"
-          summary: "Graduate Teaching Assistant, University of Isfahan, Iran. Under the supervision of Dr. Peyman Adibi (Jan 2016–Jun 2017)."
+      - name: Machine Learning
+        date: "2016"
+        end_date: "2017"
+        summary: "Graduate Teaching Assistant, University of Isfahan, Iran. Under the supervision of Dr. Peyman Adibi (Jan 2016–Jun 2017)."
+      - name: Statistical Pattern Recognition
+        date: "2016"
+        end_date: "2017"
+        summary: "Graduate Teaching Assistant, University of Isfahan, Iran. Under the supervision of Dr. Peyman Adibi (Jan 2016–Jun 2017)."
+      - name: Algorithm Design
+        date: "2016"
+        end_date: "2017"
+        summary: "Graduate Teaching Assistant, University of Isfahan, Iran. Under the supervision of Dr. Peyman Adibi (Jan 2016–Jun 2017)."
     Languages:
       - name: Spoken
         summary: Persian (native), English (C1), German (A2)
