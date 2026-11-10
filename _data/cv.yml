@@ -3,8 +3,8 @@ cv:
   headline: AI Engineer | OeAD Grant @ DPU (Austria) | PhD | Medical Image Analysis | Computational Pathology | GNNs & Foundation Models | RAG, Hybrid Search & Document AI
   email: nemat.saeidi@gmail.com
   location: Wiener Neustadt, Austria
-  summary: >-
-    AI engineer and researcher (PhD in Artificial Intelligence) with 8 years of experience across applied machine learning, computer vision, generative AI, information retrieval, and medical image analysis. Currently the sole AI specialist at a startup, responsible for multilingual hybrid search and RAG over enterprise data, and for intelligent document processing with OCR, vision-language models, and LLM-based structured extraction. Research focuses on graph neural networks and foundation models for medical image retrieval and computational pathology, published in Q1/Q2 journals.
+  summary:
+    - "AI engineer and researcher (PhD in Artificial Intelligence) with 8 years of experience across applied machine learning, computer vision, generative AI, information retrieval, and medical image analysis. Currently the sole AI specialist at a startup, responsible for multilingual hybrid search and RAG over enterprise data, and for intelligent document processing with OCR, vision-language models, and LLM-based structured extraction. Research focuses on graph neural networks and foundation models for medical image retrieval and computational pathology, published in Q1/Q2 journals."
   social_networks:
     - network: GitHub
       username: nematollahsaeidi
