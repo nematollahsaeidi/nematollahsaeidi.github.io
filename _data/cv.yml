@@ -391,6 +391,7 @@ cv:
         date: "2020"
         issuer: Institute for Research in Fundamental Sciences (IPM)
         url: https://drive.google.com/file/d/15iiUW10yFgBsG9mTzx773369CldaWlx2/view?usp=sharing
+        image: /assets/img/ipm-fourth.jpg
         summary: Institute for Research in Fundamental Sciences (IPM)
       - name: IPM Advanced Data Science Summer School (ADS3)
         date: "2018"
