@@ -213,80 +213,6 @@ cv:
         publisher: 2017 7th International Conference on Computer and Knowledge Engineering (ICCKE), Mashhad, pp. 47-52, IEEE
         releaseDate: "2017"
         doi: 10.1109/ICCKE.2017.8167927
-    Awards:
-      - title: Ernst Mach Grant, OeAD (Austrian Agency for International Cooperation in Education and Research)
-        authors:
-          - OeAD
-        date: "2024"
-        awarder: OeAD
-        summary: Research stay at Medical Image Analysis & Artificial Intelligence (MIAAI), Danube Private University (DPU), Austria.
-      - title: Ernst Mach Grant, OeAD (Austrian Agency for International Cooperation in Education and Research)
-        authors:
-          - OeAD
-        date: "2023"
-        awarder: OeAD
-        summary: Research stay at Medical Image Analysis & Artificial Intelligence (MIAAI), Danube Private University (DPU), Austria.
-      - title: Third place in the call to solve business challenges
-        authors:
-          - FANAP Co.
-        date: "2021"
-        awarder: FANAP Co., Tehran, Iran
-      - title: Exceptional Talent Award for the Ph.D. Program in Artificial Intelligence (Without National Entrance Exam)
-        authors:
-          - University of Isfahan
-        date: "2019"
-        awarder: Department of Artificial Intelligence Engineering, University of Isfahan, Iran
-      - title: Second in the graduating class, MSc in Computer Engineering (Artificial Intelligence)
-        authors:
-          - University of Isfahan
-        date: "2017"
-        awarder: Department of Artificial Intelligence Engineering, University of Isfahan, Iran
-      - title: Top two percent of graduated students, ranked 3rd among 158 BSc graduates in Computer Engineering
-        authors:
-          - Islamic Azad University Najaf Abad
-        date: "2013"
-        awarder: Department of Computer Engineering, Islamic Azad University Najaf Abad, Iran
-      - title: Top Student, scholarships for two semesters
-        authors:
-          - Islamic Azad University Najaf Abad
-        date: "2011"
-        awarder: Islamic Azad University Najaf Abad, Iran
-    Reviewer:
-      - bullet: "[Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing), Elsevier"
-      - bullet: "[Computer Methods and Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine), Elsevier"
-      - bullet: "[Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control), Elsevier"
-      - bullet: "[International Journal of Imaging Systems and Technology](https://onlinelibrary.wiley.com/journal/10981098), Wiley"
-      - bullet: "[Cancer Control](https://journals.sagepub.com/home/ccx), SAGE"
-      - bullet: "[Journal of Applied Intelligent Systems & Information Sciences (JAISIS)](https://jaisis.khatam.ac.ir/), FANAP"
-    Skills:
-      - name: Generative AI and LLMs
-        level: Advanced
-        keywords: Generative AI, GenAI models, Large Language Models (LLM), Local LLMs, Retrieval-Augmented Generation (RAG), Prompt Engineering, Fine Tuning, Finetuning Large Language Models, Pretraining LLMs, Hugging Face, Transformers, Vector indexing, Voice Chat, LangChain, Ollama, Sentence Transformers, Whisper, Coqui TTS, ChromaDB
-        summary: Generative AI, GenAI models, Large Language Models (LLM), Local LLMs, Retrieval-Augmented Generation (RAG), Prompt Engineering, Fine Tuning, Finetuning Large Language Models, Pretraining LLMs, Hugging Face, Transformers, Vector indexing, Voice Chat, LangChain, Ollama, Sentence Transformers, Whisper, Coqui TTS, ChromaDB
-      - name: Medical Image Analysis
-        level: Advanced
-        keywords: Medical Image Analysis, Histopathology image analysis, Digital Pathology, Foundation Models, Graph Neural Networks, Image Retrieval, Image classification
-        summary: Medical Image Analysis, Histopathology image analysis, Digital Pathology, Foundation Models, Graph Neural Networks, Image Retrieval, Image classification
-      - name: Computer Vision
-        level: Advanced
-        keywords: Computer Vision, OpenCV, Detectron2, Digital Image Processing, Image Analysis, Image Search, Facial Recognition, Speaker Recognition, Transfer Learning, Approximate Nearest Neighbor Search, ImageAI, Darknet, YOLO, ArcFace, InsightFace, NVIDIA NeMo TitaNet, Resemblyzer
-        summary: Computer Vision, OpenCV, Detectron2, Digital Image Processing, Image Analysis, Image Search, Facial Recognition, Speaker Recognition, Transfer Learning, Approximate Nearest Neighbor Search, ImageAI, Darknet, YOLO, ArcFace, InsightFace, NVIDIA NeMo TitaNet, Resemblyzer
-      - name: Machine Learning and Deep Learning
-        level: Advanced
-        keywords: Machine Learning, Deep Learning, Neural Networks, PyTorch, TensorFlow, Keras, Gradient Boosting (CatBoost, LightGBM, XGBoost), Recommender Systems, Artificial Intelligence, Scikit-learn
-        summary: Machine Learning, Deep Learning, Neural Networks, PyTorch, TensorFlow, Keras, Gradient Boosting (CatBoost, LightGBM, XGBoost), Recommender Systems, Artificial Intelligence, Scikit-learn
-      - name: Programming and Tools
-        level: Advanced
-        keywords: Python, Matlab, NetLogo, Git, LaTeX, Flask, RESTful WebServices, Postman, Programming, Pytest, Flask-RESTful, Docker, PyCharm, Jupyter, Anaconda, Linux, Windows
-        summary: Python, Matlab, NetLogo, Git, LaTeX, Flask, RESTful WebServices, Postman, Programming, Pytest, Flask-RESTful, Docker, PyCharm, Jupyter, Anaconda, Linux, Windows
-      - name: Data
-        level: Advanced
-        keywords: Data Science, Data Analysis, Data Analytics, Data Visualization, Tableau, DASK, SQL, Elasticsearch, NumPy, Pandas, Matplotlib, SQL Server, Faiss
-        summary: Data Science, Data Analysis, Data Analytics, Data Visualization, Tableau, DASK, SQL, Elasticsearch, NumPy, Pandas, Matplotlib, SQL Server, Faiss
-      - name: Research and Professional
-        level: Advanced
-        keywords: Research, Research and Development (R&D), Agile Methodologies, Microsoft Office, WordPress
-        summary: Research, Research and Development (R&D), Agile Methodologies, Microsoft Office, WordPress
     Projects:
       - name: Content-Based Medical Image Retrieval (CBMIR)
         date: "2025"
@@ -356,6 +282,80 @@ cv:
         end_date: "2013"
         summary: Agent-based social simulation model using reinforcement learning.
         location: Islamic Azad University, Najafabad Branch
+    Awards:
+      - title: Ernst Mach Grant, OeAD (Austrian Agency for International Cooperation in Education and Research)
+        authors:
+          - OeAD
+        date: "2024"
+        awarder: OeAD
+        summary: Research stay at Medical Image Analysis & Artificial Intelligence (MIAAI), Danube Private University (DPU), Austria.
+      - title: Ernst Mach Grant, OeAD (Austrian Agency for International Cooperation in Education and Research)
+        authors:
+          - OeAD
+        date: "2023"
+        awarder: OeAD
+        summary: Research stay at Medical Image Analysis & Artificial Intelligence (MIAAI), Danube Private University (DPU), Austria.
+      - title: Third place in the call to solve business challenges
+        authors:
+          - FANAP Co.
+        date: "2021"
+        awarder: FANAP Co., Tehran, Iran
+      - title: Exceptional Talent Award for the Ph.D. Program in Artificial Intelligence (Without National Entrance Exam)
+        authors:
+          - University of Isfahan
+        date: "2019"
+        awarder: Department of Artificial Intelligence Engineering, University of Isfahan, Iran
+      - title: Second in the graduating class, MSc in Computer Engineering (Artificial Intelligence)
+        authors:
+          - University of Isfahan
+        date: "2017"
+        awarder: Department of Artificial Intelligence Engineering, University of Isfahan, Iran
+      - title: Top two percent of graduated students, ranked 3rd among 158 BSc graduates in Computer Engineering
+        authors:
+          - Islamic Azad University Najaf Abad
+        date: "2013"
+        awarder: Department of Computer Engineering, Islamic Azad University Najaf Abad, Iran
+      - title: Top Student, scholarships for two semesters
+        authors:
+          - Islamic Azad University Najaf Abad
+        date: "2011"
+        awarder: Islamic Azad University Najaf Abad, Iran
+    Skills:
+      - name: Generative AI and LLMs
+        level: Advanced
+        keywords: Generative AI, GenAI models, Large Language Models (LLM), Local LLMs, Retrieval-Augmented Generation (RAG), Prompt Engineering, Fine Tuning, Finetuning Large Language Models, Pretraining LLMs, Hugging Face, Transformers, Vector indexing, Voice Chat, LangChain, Ollama, Sentence Transformers, Whisper, Coqui TTS, ChromaDB
+        summary: Generative AI, GenAI models, Large Language Models (LLM), Local LLMs, Retrieval-Augmented Generation (RAG), Prompt Engineering, Fine Tuning, Finetuning Large Language Models, Pretraining LLMs, Hugging Face, Transformers, Vector indexing, Voice Chat, LangChain, Ollama, Sentence Transformers, Whisper, Coqui TTS, ChromaDB
+      - name: Medical Image Analysis
+        level: Advanced
+        keywords: Medical Image Analysis, Histopathology image analysis, Digital Pathology, Foundation Models, Graph Neural Networks, Image Retrieval, Image classification
+        summary: Medical Image Analysis, Histopathology image analysis, Digital Pathology, Foundation Models, Graph Neural Networks, Image Retrieval, Image classification
+      - name: Computer Vision
+        level: Advanced
+        keywords: Computer Vision, OpenCV, Detectron2, Digital Image Processing, Image Analysis, Image Search, Facial Recognition, Speaker Recognition, Transfer Learning, Approximate Nearest Neighbor Search, ImageAI, Darknet, YOLO, ArcFace, InsightFace, NVIDIA NeMo TitaNet, Resemblyzer
+        summary: Computer Vision, OpenCV, Detectron2, Digital Image Processing, Image Analysis, Image Search, Facial Recognition, Speaker Recognition, Transfer Learning, Approximate Nearest Neighbor Search, ImageAI, Darknet, YOLO, ArcFace, InsightFace, NVIDIA NeMo TitaNet, Resemblyzer
+      - name: Machine Learning and Deep Learning
+        level: Advanced
+        keywords: Machine Learning, Deep Learning, Neural Networks, PyTorch, TensorFlow, Keras, Gradient Boosting (CatBoost, LightGBM, XGBoost), Recommender Systems, Artificial Intelligence, Scikit-learn
+        summary: Machine Learning, Deep Learning, Neural Networks, PyTorch, TensorFlow, Keras, Gradient Boosting (CatBoost, LightGBM, XGBoost), Recommender Systems, Artificial Intelligence, Scikit-learn
+      - name: Programming and Tools
+        level: Advanced
+        keywords: Python, Matlab, NetLogo, Git, LaTeX, Flask, RESTful WebServices, Postman, Programming, Pytest, Flask-RESTful, Docker, PyCharm, Jupyter, Anaconda, Linux, Windows
+        summary: Python, Matlab, NetLogo, Git, LaTeX, Flask, RESTful WebServices, Postman, Programming, Pytest, Flask-RESTful, Docker, PyCharm, Jupyter, Anaconda, Linux, Windows
+      - name: Data
+        level: Advanced
+        keywords: Data Science, Data Analysis, Data Analytics, Data Visualization, Tableau, DASK, SQL, Elasticsearch, NumPy, Pandas, Matplotlib, SQL Server, Faiss
+        summary: Data Science, Data Analysis, Data Analytics, Data Visualization, Tableau, DASK, SQL, Elasticsearch, NumPy, Pandas, Matplotlib, SQL Server, Faiss
+      - name: Research and Professional
+        level: Advanced
+        keywords: Research, Research and Development (R&D), Agile Methodologies, Microsoft Office, WordPress
+        summary: Research, Research and Development (R&D), Agile Methodologies, Microsoft Office, WordPress
+    Reviewer:
+      - bullet: "[Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing), Elsevier"
+      - bullet: "[Computer Methods and Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine), Elsevier"
+      - bullet: "[Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control), Elsevier"
+      - bullet: "[International Journal of Imaging Systems and Technology](https://onlinelibrary.wiley.com/journal/10981098), Wiley"
+      - bullet: "[Cancer Control](https://journals.sagepub.com/home/ccx), SAGE"
+      - bullet: "[Journal of Applied Intelligent Systems & Information Sciences (JAISIS)](https://jaisis.khatam.ac.ir/), FANAP"        
     Certificates:
       - name: Pretraining LLMs
         date: "2025"
