@@ -14,6 +14,37 @@ cv:
     - network: ORCID
       username: 0009-0005-0797-1058
   sections:
+    Education:
+    - institution: University of Isfahan
+      location: Isfahan, Iran
+      area: Artificial Intelligence
+      degree: PhD
+      start_date: "2019"
+      end_date: 2026-10
+      summary: "Thesis: Content-based Medical Image Retrieval Using Graph Neural Networks."
+      studyType: PhD
+      highlights:
+        - "Thesis: Content-based Medical Image Retrieval Using Graph Neural Networks."
+    - institution: University of Isfahan
+      location: Isfahan, Iran
+      area: Artificial Intelligence
+      degree: MSc
+      start_date: "2015"
+      end_date: "2017"
+      summary: "Thesis: Learning Multi-Objective Binary Features for Image Representation and Recognition."
+      studyType: MSc
+      highlights:
+        - "Thesis: Learning Multi-Objective Binary Features for Image Representation and Recognition."
+    - institution: Islamic Azad University Najaf Abad
+      location: Isfahan, Iran
+      area: Software Engineering
+      degree: BSc
+      start_date: "2010"
+      end_date: "2013"
+      summary: "Thesis: Intelligent Agent-based Social Simulation Model using Reinforcement Learning."
+      studyType: BSc
+      highlights:
+        - "Thesis: Intelligent Agent-based Social Simulation Model using Reinforcement Learning."
     Experience:
       - company: Startup
         position: AI Engineer
@@ -58,8 +89,8 @@ cv:
           - Designed and executed evaluations of model accuracy, speed, and reliability; identified and reported anomalies in AI systems.
           - Drafted requests for proposals (RFPs) and business plans for initiatives in the AI open innovation ecosystem.
           - Authored technical articles and research briefs for the FANAP Research Team.
-          - "Medical image search engine (Dec 2022–Sep 2023): worked on retrieval and classification using attention-based adversarial variational graph autoencoders, pretrained models, and approximate nearest-neighbor search."
-          - "Drawing-robot motion planning (Mar–Jul 2022): developed image-processing methods to extract contours for a drawing robot."
+          - Medical image search engine (Dec 2022–Sep 2023): worked on retrieval and classification using attention-based adversarial variational graph autoencoders, pretrained models, and approximate nearest-neighbor search.
+          - Drawing-robot motion planning (Mar–Jul 2022): developed image-processing methods to extract contours for a drawing robot.
           - Worked within an agile process using daily standups, sprint retrospectives, backlog grooming, and continuous integration in two-week sprints.
       - company: FANAP Co.
         position: Data Scientist
@@ -68,47 +99,16 @@ cv:
         end_date: 2021-07
         summary: Developed computer vision, recommendation, and customer analytics applications at FANAP.
         highlights:
-          - "Object detection API (Sep 2020–Jul 2021): implemented detection and segmentation workflows using few-shot models and transfer learning."
-          - "Video surveillance attendance API (Jan–Mar 2021): implemented an attendance and registration application."
-          - "Automatic number plate recognition (Jan 2021): implemented vehicle registration, vehicle-data search, and ranked record display by license plate."
-          - "Visual search API (Jan–Sep 2020): combined object detection and recognition, color extraction, image crawling, transfer learning, and approximate nearest-neighbor search."
-          - "Customer analytics and clustering library (Aug 2019–Jan 2020): developed SaaS metrics and KPIs, segmentation, and cluster ensembles for numeric and categorical grocery-retail data."
-          - "Transaction analysis (Aug 2019–Jan 2020): clustered customer behavior in credit-card transactions to support fraud detection, including money-laundering and tax-evasion analysis."
-          - "Recommendation system (Mar–Aug 2019): developed sequence-to-sequence ranking, association rules, hybrid/content-based/collaborative filtering, customer clustering, and feature engineering for candidate generation."
-          - "Marketing analysis and product prediction (Oct 2018–Feb 2019): applied CatBoost, XGBoost, LightGBM, ensemble methods, and multilayer perceptrons across business datasets."
+          - Object detection API (Sep 2020–Jul 2021): implemented detection and segmentation workflows using few-shot models and transfer learning.
+          - Video surveillance attendance API (Jan–Mar 2021): implemented an attendance and registration application.
+          - Automatic number plate recognition (Jan 2021): implemented vehicle registration, vehicle-data search, and ranked record display by license plate.
+          - Visual search API (Jan–Sep 2020): combined object detection and recognition, color extraction, image crawling, transfer learning, and approximate nearest-neighbor search.
+          - Customer analytics and clustering library (Aug 2019–Jan 2020): developed SaaS metrics and KPIs, segmentation, and cluster ensembles for numeric and categorical grocery-retail data.
+          - Transaction analysis (Aug 2019–Jan 2020): clustered customer behavior in credit-card transactions to support fraud detection, including money-laundering and tax-evasion analysis.
+          - Recommendation system (Mar–Aug 2019): developed sequence-to-sequence ranking, association rules, hybrid/content-based/collaborative filtering, customer clustering, and feature engineering for candidate generation.
+          - Marketing analysis and product prediction (Oct 2018–Feb 2019): applied CatBoost, XGBoost, LightGBM, ensemble methods, and multilayer perceptrons across business datasets.
           - Collaborated on fraud detection, chatbot, video surveillance, recommendation, and customer behavior analysis services.
           - Worked in two-week agile sprints with daily standups, retrospectives, backlog grooming, and continuous integration.
-    Education:
-      - institution: University of Isfahan
-        location: Isfahan, Iran
-        area: Artificial Intelligence
-        degree: PhD
-        start_date: "2019"
-        end_date: 2026-10
-        summary: "Thesis: Content-based Medical Image Retrieval Using Graph Neural Networks."
-        studyType: PhD
-        highlights:
-          - "Thesis: Content-based Medical Image Retrieval Using Graph Neural Networks."
-      - institution: University of Isfahan
-        location: Isfahan, Iran
-        area: Artificial Intelligence
-        degree: MSc
-        start_date: "2015"
-        end_date: "2017"
-        summary: "Thesis: Learning Multi-Objective Binary Features for Image Representation and Recognition."
-        studyType: MSc
-        highlights:
-          - "Thesis: Learning Multi-Objective Binary Features for Image Representation and Recognition."
-      - institution: Islamic Azad University Najaf Abad
-        location: Isfahan, Iran
-        area: Software Engineering
-        degree: BSc
-        start_date: "2010"
-        end_date: "2013"
-        summary: "Thesis: Intelligent Agent-based Social Simulation Model using Reinforcement Learning."
-        studyType: BSc
-        highlights:
-          - "Thesis: Intelligent Agent-based Social Simulation Model using Reinforcement Learning."
     Publications:
       - title: "Unfolding Graph Convolutional Networks: Architectures, Use Cases, and Trends"
         authors:
