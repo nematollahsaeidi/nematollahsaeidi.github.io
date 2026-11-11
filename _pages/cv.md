@@ -4,7 +4,6 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 1
-cv_pdf: /assets/pdf/Nematollah_Saeidi_CV.pdf
 cv_format: rendercv
 description: Curriculum vitae of Emad (Nematollah) Saeidi.
 toc:
