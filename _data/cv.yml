@@ -3,7 +3,6 @@ cv:
   headline: AI Engineer | OeAD Grant @ DPU (Austria) | PhD | Medical Image Analysis | Computational Pathology | GNNs & Foundation Models | RAG, Hybrid Search & Document AI
   email: nemat.saeidi@gmail.com
   location: Wiener Neustadt, Austria
-  summary: AI engineer and researcher (PhD in Artificial Intelligence) with 8 years of experience across applied machine learning, computer vision, generative AI, information retrieval, and medical image analysis. Currently the sole AI specialist at a startup, responsible for multilingual hybrid search and RAG over enterprise data, and for intelligent document processing with OCR, vision-language models, and LLM-based structured extraction. Research focuses on graph neural networks and foundation models for medical image retrieval and computational pathology, published in Q1/Q2 journals.
   social_networks:
     - network: GitHub
       username: nematollahsaeidi
@@ -14,37 +13,39 @@ cv:
     - network: ORCID
       username: 0009-0005-0797-1058
   sections:
+    Summary:
+      - bullet: "AI engineer and researcher (PhD in Artificial Intelligence) with 8 years of experience across applied machine learning, computer vision, generative AI, information retrieval, and medical image analysis. Currently the sole AI specialist at a startup, responsible for multilingual hybrid search and RAG over enterprise data, and for intelligent document processing with OCR, vision-language models, and LLM-based structured extraction. Research focuses on graph neural networks and foundation models for medical image retrieval and computational pathology, published in Q1/Q2 journals."  
     Education:
-    - institution: University of Isfahan
-      location: Isfahan, Iran
-      area: Artificial Intelligence
-      degree: PhD
-      start_date: "2019"
-      end_date: 2026-10
-      summary: "Thesis: Content-based Medical Image Retrieval Using Graph Neural Networks."
-      studyType: PhD
-      highlights:
-        - "Thesis: Content-based Medical Image Retrieval Using Graph Neural Networks."
-    - institution: University of Isfahan
-      location: Isfahan, Iran
-      area: Artificial Intelligence
-      degree: MSc
-      start_date: "2015"
-      end_date: "2017"
-      summary: "Thesis: Learning Multi-Objective Binary Features for Image Representation and Recognition."
-      studyType: MSc
-      highlights:
-        - "Thesis: Learning Multi-Objective Binary Features for Image Representation and Recognition."
-    - institution: Islamic Azad University Najaf Abad
-      location: Isfahan, Iran
-      area: Software Engineering
-      degree: BSc
-      start_date: "2010"
-      end_date: "2013"
-      summary: "Thesis: Intelligent Agent-based Social Simulation Model using Reinforcement Learning."
-      studyType: BSc
-      highlights:
-        - "Thesis: Intelligent Agent-based Social Simulation Model using Reinforcement Learning."
+      - institution: University of Isfahan
+        location: Isfahan, Iran
+        area: Artificial Intelligence
+        degree: PhD
+        start_date: "2019"
+        end_date: 2026-10
+        summary: "Thesis: Content-based Medical Image Retrieval Using Graph Neural Networks."
+        studyType: PhD
+        highlights:
+          - "Thesis: Content-based Medical Image Retrieval Using Graph Neural Networks."
+      - institution: University of Isfahan
+        location: Isfahan, Iran
+        area: Artificial Intelligence
+        degree: MSc
+        start_date: "2015"
+        end_date: "2017"
+        summary: "Thesis: Learning Multi-Objective Binary Features for Image Representation and Recognition."
+        studyType: MSc
+        highlights:
+          - "Thesis: Learning Multi-Objective Binary Features for Image Representation and Recognition."
+      - institution: Islamic Azad University Najaf Abad
+        location: Isfahan, Iran
+        area: Software Engineering
+        degree: BSc
+        start_date: "2010"
+        end_date: "2013"
+        summary: "Thesis: Intelligent Agent-based Social Simulation Model using Reinforcement Learning."
+        studyType: BSc
+        highlights:
+          - "Thesis: Intelligent Agent-based Social Simulation Model using Reinforcement Learning."
     Experience:
       - company: Startup
         position: AI Engineer
