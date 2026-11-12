@@ -214,6 +214,14 @@ cv:
         releaseDate: "2017"
         doi: 10.1109/ICCKE.2017.8167927
     Projects:
+      - name: Multilingual Hybrid Search & RAG Platform
+        date: "2026"
+        summary: Retrieval and retrieval-augmented generation over enterprise data in Persian and English. Combines lexical and semantic retrieval with rank fusion and optional reranking, an LLM-based relevance-scoring layer with strict output validation, streamed grounded answers, voice search, and a data ingestion and synchronization service.
+        location: Startup
+      - name: Intelligent Document Processing Platform
+        date: "2026"
+        summary: Document-AI services converting documents and conversations into structured data, in Persian and English. Asynchronous OCR with vision-language models, LLM-based extraction and validation, multi-provider LLM orchestration with local fallback, template-driven conversational generation, PII redaction, and full observability.
+        location: Startup
       - name: Content-Based Medical Image Retrieval (CBMIR)
         date: "2025"
         summary: Explores vision and vision-language foundation models for content-based medical image retrieval across 2D and 3D medical images, and investigates the impact of image size on retrieval performance.
