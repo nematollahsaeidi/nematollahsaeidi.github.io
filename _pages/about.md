@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI/ML Engineer and Researcher &middot; MIAAI Group, Danube Private University, Austria
+subtitle: AI/ML Engineer and Researcher | OeAD Grant @DPU (Austria) | PhD | Medical Image Analysis | Computational Pathology | GNNs & Foundation Models | RAG, Hybrid Search & Document AI
 
 profile:
   align: right
