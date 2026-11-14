@@ -32,6 +32,10 @@
   date: "Aug 2020"
   url: "https://drive.google.com/file/d/15iiUW10yFgBsG9mTzx773369CldaWlx2/view?usp=sharing"
   image: /assets/img/certificates/ipm-fourth.JPG
+- name: "Award for Recognition, FANAP Research Event 2021"
+  issuer: "FANAP Co."
+  date: "Dec 2021"
+  image: /assets/img/certificates/fanap-event.JPG
 - name: "IPM Advanced Data Science Summer School (ADS3)"
   issuer: "Institute for Research in Fundamental Sciences (IPM)"
   date: "Aug 2018"
