@@ -24,6 +24,7 @@ cv:
         summary: "Thesis: Content-based Medical Image Retrieval Using Graph Neural Networks."
         studyType: PhD
         highlights:
+          - "GPA: 18.63/20"
           - "Thesis: Content-based Medical Image Retrieval Using Graph Neural Networks."
       - institution: University of Isfahan
         location: Isfahan, Iran
@@ -34,6 +35,7 @@ cv:
         summary: "Thesis: Learning Multi-Objective Binary Features for Image Representation and Recognition."
         studyType: MSc
         highlights:
+          - "GPA: 17.39/20"
           - "Thesis: Learning Multi-Objective Binary Features for Image Representation and Recognition."
       - institution: Islamic Azad University Najaf Abad
         location: Isfahan, Iran
@@ -44,6 +46,7 @@ cv:
         summary: "Thesis: Intelligent Agent-based Social Simulation Model using Reinforcement Learning."
         studyType: BSc
         highlights:
+          - "GPA: 17.65/20"
           - "Thesis: Intelligent Agent-based Social Simulation Model using Reinforcement Learning."
     Experience:
       - company: Startup
