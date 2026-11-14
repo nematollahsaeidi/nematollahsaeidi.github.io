@@ -363,11 +363,10 @@ cv:
     Spoken Languages:
       - bullet: "**Persian** (Native) · **English** (C1) · **German** (A2)"
     Research Interests:
-      - bullet: "**Medical Image Analysis & Computational Pathology** — Content-based Image Retrieval, Histopathology, Digital Pathology, Foundation Models"
-      - bullet: "**Graph Neural Networks** — Graph Convolutional Networks, Graph Autoencoders, Graph-based Representation Learning"
-      - bullet: "**Large Language Models & Generative AI** — Retrieval-Augmented Generation (RAG), Prompt Engineering, Fine-tuning, Generative Models"
+      - bullet: "**Medical Image Analysis & Computational Pathology** — Medical Image Analysis, Digital Pathology, Foundation Models"
+      - bullet: "**Large Language Models & Generative AI** — Retrieval-Augmented Generation (RAG), Prompt Engineering, Fine-tuning, Generative Models, Vision-Language Models"
       - bullet: "**Information Retrieval & Document AI** — Hybrid Search, Semantic Search, Reranking, OCR, Structured Information Extraction"
-      - bullet: "**Computer Vision & Multimodal Learning** — Vision-Language Models, Image Classification, Face and Speaker Recognition, Speech Pipelines"
+      - bullet: "**Graph Neural Networks** — Graph Convolutional Networks, Graph Autoencoders, Graph-based Representation Learning"
     References:
       - name: Amirreza Mahbod
         reference: Assistant Professor, Medical Image Analysis & Artificial Intelligence (MIAAI), Danube Private University (DPU), Vienna, Austria. amirreza.mahbod@dp-uni.ac.at
