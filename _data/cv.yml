@@ -331,36 +331,15 @@ cv:
           - Islamic Azad University Najaf Abad
         date: "2011"
         awarder: Islamic Azad University Najaf Abad, Iran
-    Skills:
-      - name: Generative AI and LLMs
-        level: Advanced
-        keywords: Generative AI, GenAI models, Large Language Models (LLM), Local LLMs, Retrieval-Augmented Generation (RAG), Prompt Engineering, Fine Tuning, Finetuning Large Language Models, Pretraining LLMs, Hugging Face, Transformers, Vector indexing, Voice Chat, LangChain, Ollama, Sentence Transformers, Whisper, Coqui TTS, ChromaDB
-        summary: Generative AI, GenAI models, Large Language Models (LLM), Local LLMs, Retrieval-Augmented Generation (RAG), Prompt Engineering, Fine Tuning, Finetuning Large Language Models, Pretraining LLMs, Hugging Face, Transformers, Vector indexing, Voice Chat, LangChain, Ollama, Sentence Transformers, Whisper, Coqui TTS, ChromaDB
-      - name: Medical Image Analysis
-        level: Advanced
-        keywords: Medical Image Analysis, Histopathology image analysis, Digital Pathology, Foundation Models, Graph Neural Networks, Image Retrieval, Image classification
-        summary: Medical Image Analysis, Histopathology image analysis, Digital Pathology, Foundation Models, Graph Neural Networks, Image Retrieval, Image classification
-      - name: Computer Vision
-        level: Advanced
-        keywords: Computer Vision, OpenCV, Detectron2, Digital Image Processing, Image Analysis, Image Search, Facial Recognition, Speaker Recognition, Transfer Learning, Approximate Nearest Neighbor Search, ImageAI, Darknet, YOLO, ArcFace, InsightFace, NVIDIA NeMo TitaNet, Resemblyzer
-        summary: Computer Vision, OpenCV, Detectron2, Digital Image Processing, Image Analysis, Image Search, Facial Recognition, Speaker Recognition, Transfer Learning, Approximate Nearest Neighbor Search, ImageAI, Darknet, YOLO, ArcFace, InsightFace, NVIDIA NeMo TitaNet, Resemblyzer
-      - name: Machine Learning and Deep Learning
-        level: Advanced
-        keywords: Machine Learning, Deep Learning, Neural Networks, PyTorch, TensorFlow, Keras, Gradient Boosting (CatBoost, LightGBM, XGBoost), Recommender Systems, Artificial Intelligence, Scikit-learn
-        summary: Machine Learning, Deep Learning, Neural Networks, PyTorch, TensorFlow, Keras, Gradient Boosting (CatBoost, LightGBM, XGBoost), Recommender Systems, Artificial Intelligence, Scikit-learn
-      - name: Programming and Tools
-        level: Advanced
-        keywords: Python, Matlab, NetLogo, Git, LaTeX, Flask, RESTful WebServices, Postman, Programming, Pytest, Flask-RESTful, Docker, PyCharm, Jupyter, Anaconda, Linux, Windows
-        summary: Python, Matlab, NetLogo, Git, LaTeX, Flask, RESTful WebServices, Postman, Programming, Pytest, Flask-RESTful, Docker, PyCharm, Jupyter, Anaconda, Linux, Windows
-      - name: Data
-        level: Advanced
-        keywords: Data Science, Data Analysis, Data Analytics, Data Visualization, Tableau, DASK, SQL, Elasticsearch, NumPy, Pandas, Matplotlib, SQL Server, Faiss
-        summary: Data Science, Data Analysis, Data Analytics, Data Visualization, Tableau, DASK, SQL, Elasticsearch, NumPy, Pandas, Matplotlib, SQL Server, Faiss
-      - name: Research and Professional
-        level: Advanced
-        keywords: Research, Research and Development (R&D), Agile Methodologies, Microsoft Office, WordPress
-        summary: Research, Research and Development (R&D), Agile Methodologies, Microsoft Office, WordPress
-    Licenses and Certifications:
+    Technical Skills:
+      - bullet: "**Generative AI and LLMs** — Generative AI, GenAI models, Large Language Models (LLM), Local LLMs, Retrieval-Augmented Generation (RAG), Prompt Engineering, Finetuning LLMs Pretraining LLMs, Hugging Face, Transformers, Vector indexing, Voice Chat, LangChain, Ollama, Sentence Transformers, Whisper, Coqui TTS, ChromaDB"
+      - bullet: "**Medical Image Analysis** — Medical Image Analysis, Histopathology image analysis, Digital Pathology, Foundation Models, Graph Neural Networks, Image Retrieval, Image classification"
+      - bullet: "**Computer Vision** — Computer Vision, OpenCV, Detectron2, Digital Image Processing, Image Analysis, Image Search, Facial Recognition, Speaker Recognition, Transfer Learning, Approximate Nearest Neighbor Search, ImageAI, Darknet, YOLO, ArcFace, InsightFace, NVIDIA NeMo TitaNet, Resemblyzer"
+      - bullet: "**Machine Learning and Deep Learning** — Machine Learning, Deep Learning, Neural Networks, PyTorch, TensorFlow, Keras, Gradient Boosting (CatBoost, LightGBM, XGBoost), Recommender Systems, Artificial Intelligence, Scikit-learn"
+      - bullet: "**Programming and Tools** — Python, Matlab, NetLogo, Git, LaTeX, Flask, RESTful WebServices, Postman, Programming, Pytest, Flask-RESTful, Docker, PyCharm, Jupyter, Anaconda, Linux, Windows"
+      - bullet: "**Data** — Data Science, Data Analysis, Data Analytics, Data Visualization, Tableau, DASK, SQL, Elasticsearch, NumPy, Pandas, Matplotlib, SQL Server, Faiss"
+      - bullet: "**Research and Professional** — Research, Research and Development (R&D), Agile Methodologies, Microsoft Office, WordPress"
+    Certifications:
       - bullet: "**Pretraining LLMs** — DeepLearning.AI (2025). [Link](https://learn.deeplearning.ai/accomplishments/b7e0b2f6-5ac5-45dd-a5af-442689cc913f?usp=sharing)"
       - bullet: "**Finetuning Large Language Models** — DeepLearning.AI (2025). [Link](https://learn.deeplearning.ai/accomplishments/d7953221-639a-4242-9f30-e16989a46719?usp=sharing)"
       - bullet: "**Applied Plotting, Charting and Data Representation in Python** — University of Michigan (Coursera) (2022). [Link](https://www.coursera.org/account/accomplishments/certificate/FZUY5DRK9KDW)"
