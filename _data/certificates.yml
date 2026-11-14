@@ -15,17 +15,13 @@
   date: "Oct 2022"
   credential_id: "FZUY5DRK9KDW"
   url: "https://www.coursera.org/account/accomplishments/certificate/FZUY5DRK9KDW"
-  image: /assets/img/certificates/applied-plotting.JPG
-- name: "Python Project for AI & Application Development"
-  issuer: "IBM"
-  date: "Sep 2022"
-  image: /assets/img/certificates/python-project-ai.JPG
+  image: /assets/img/certificates/applied-plotting.jpg
 - name: "Applied Machine Learning in Python"
   issuer: "University of Michigan (Coursera)"
   date: "May 2022"
   credential_id: "2d37cd669713fe13686f15f3abd8f3ea"
   url: "https://coursera.org/share/2d37cd669713fe13686f15f3abd8f3ea"
-  image: /assets/img/certificates/applied-ml-python.JPG
+  image: /assets/img/certificates/applied-ml-python.jpg
 - name: "Fifth IPM Advanced School on Computing and Artificial Intelligence"
   issuer: "Institute for Research in Fundamental Sciences (IPM)"
   date: "Sep 2021"
@@ -44,3 +40,7 @@
   issuer: "Institute for Research in Fundamental Sciences (IPM)"
   date: "Jul 2018"
   image: /assets/img/certificates/ipm-eds3.JPG
+- name: "Python Project for AI & Application Development"
+  issuer: "IBM"
+  date: "Sep 2022"
+  image: /assets/img/certificates/python-project-ai.JPG  
