@@ -360,13 +360,6 @@ cv:
         level: Advanced
         keywords: Research, Research and Development (R&D), Agile Methodologies, Microsoft Office, WordPress
         summary: Research, Research and Development (R&D), Agile Methodologies, Microsoft Office, WordPress
-    Scientific Reviewer:
-      - bullet: "**Applied Soft Computing** — Elsevier"
-      - bullet: "**Computer Methods and Programs in Biomedicine** — Elsevier"
-      - bullet: "**Biomedical Signal Processing and Control** — Elsevier"
-      - bullet: "**International Journal of Imaging Systems and Technology** — Wiley"
-      - bullet: "**Cancer Control** — SAGE"
-      - bullet: "**Journal of Applied Intelligent Systems & Information Sciences (JAISIS)** — FANAP"
     Licenses and Certifications:
       - bullet: "**Pretraining LLMs** — DeepLearning.AI (2025). [Link](https://learn.deeplearning.ai/accomplishments/b7e0b2f6-5ac5-45dd-a5af-442689cc913f?usp=sharing)"
       - bullet: "**Finetuning Large Language Models** — DeepLearning.AI (2025). [Link](https://learn.deeplearning.ai/accomplishments/d7953221-639a-4242-9f30-e16989a46719?usp=sharing)"
@@ -377,23 +370,25 @@ cv:
       - bullet: "**Fourth IPM Advanced School on Computing and Artificial Intelligence** — Institute for Research in Fundamental Sciences (IPM) (2020). [Link](https://drive.google.com/file/d/15iiUW10yFgBsG9mTzx773369CldaWlx2/view?usp=sharing)"
       - bullet: "**IPM Advanced Data Science Summer School (ADS3)** — Institute for Research in Fundamental Sciences (IPM) (2018)."
       - bullet: "**IPM Elementary Data Science Summer School (EDS3)** — Institute for Research in Fundamental Sciences (IPM) (2018)."
+    Scientific Reviewer:
+      - bullet: "**Applied Soft Computing** — Elsevier. [Link](https://www.sciencedirect.com/journal/applied-soft-computing)"
+      - bullet: "**Computer Methods and Programs in Biomedicine** — Elsevier. [Link](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine)"
+      - bullet: "**Biomedical Signal Processing and Control** — Elsevier. [Link](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)"
+      - bullet: "**International Journal of Imaging Systems and Technology** — Wiley. [Link](https://onlinelibrary.wiley.com/journal/10981098)"
+      - bullet: "**Cancer Control** — SAGE. [Link](https://journals.sagepub.com/home/ccx)"
+      - bullet: "**Journal of Applied Intelligent Systems & Information Sciences (JAISIS)** — FANAP. [Link](https://jaisis.khatam.ac.ir)"    
     Teaching Assistant:
       - bullet: "**Machine Learning** — Graduate Teaching Assistant, University of Isfahan, Iran (Jan 2016–Jun 2017), under the supervision of Dr. Peyman Adibi."
       - bullet: "**Statistical Pattern Recognition** — Graduate Teaching Assistant, University of Isfahan, Iran (Jan 2016–Jun 2017), under the supervision of Dr. Peyman Adibi."
       - bullet: "**Algorithm Design** — Graduate Teaching Assistant, University of Isfahan, Iran (Jan 2016–Jun 2017), under the supervision of Dr. Peyman Adibi."
-    Languages:
-      - name: Spoken
-        summary: Persian (native), English (C1), German (A2)
-    Interests:
-      - name: Medical Image Analysis
-        keywords: Content-based Image Retrieval, Histopathology, Foundation Models
-        summary: Content-based Image Retrieval, Histopathology, Foundation Models
-      - name: Graph Neural Networks
-        keywords: Graph Convolutional Networks, Graph Autoencoders, Generative Models
-        summary: Graph Convolutional Networks, Graph Autoencoders, Generative Models
-      - name: Applied AI
-        keywords: RAG, Speech Pipelines, Face and Speaker Recognition, Recommender Systems
-        summary: RAG, Speech Pipelines, Face and Speaker Recognition, Recommender Systems
+    Spoken Languages:
+      - bullet: "**Persian** (Native) · **English** (C1) · **German** (A2)"
+    Research Interests:
+      - bullet: "**Medical Image Analysis & Computational Pathology** — Content-based Image Retrieval, Histopathology, Digital Pathology, Foundation Models"
+      - bullet: "**Graph Neural Networks** — Graph Convolutional Networks, Graph Autoencoders, Graph-based Representation Learning"
+      - bullet: "**Large Language Models & Generative AI** — Retrieval-Augmented Generation (RAG), Prompt Engineering, Fine-tuning, Generative Models"
+      - bullet: "**Information Retrieval & Document AI** — Hybrid Search, Semantic Search, Reranking, OCR, Structured Information Extraction"
+      - bullet: "**Computer Vision & Multimodal Learning** — Vision-Language Models, Image Classification, Face and Speaker Recognition, Speech Pipelines"
     References:
       - name: Amirreza Mahbod
         reference: Assistant Professor, Medical Image Analysis & Artificial Intelligence (MIAAI), Danube Private University (DPU), Vienna, Austria. amirreza.mahbod@dp-uni.ac.at
