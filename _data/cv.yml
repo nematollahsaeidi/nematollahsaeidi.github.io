@@ -100,7 +100,7 @@ cv:
         location: Tehran, Iran (Hybrid)
         start_date: 2018-10
         end_date: 2021-07
-        summary: Developed computer vision, recommendation, and customer analytics applications at FANAP.
+        summary: Developed 10+ deployed AI services spanning computer vision, visual search, object detection, video surveillance, recommendation, fraud detection, and customer analytics at FANAP.
         highlights:
           - "Object detection API (Sep 2020–Jul 2021): implemented detection and segmentation workflows using few-shot models and transfer learning."
           - "Video surveillance attendance API (Jan–Mar 2021): implemented an attendance and registration application."
