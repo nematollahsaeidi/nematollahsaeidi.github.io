@@ -221,73 +221,95 @@ cv:
         date: "2026"
         summary: Retrieval and retrieval-augmented generation over enterprise data in Persian and English. Combines lexical and semantic retrieval with rank fusion and optional reranking, an LLM-based relevance-scoring layer with strict output validation, streamed grounded answers, voice search, and a data ingestion and synchronization service.
         location: Startup
+
       - name: Intelligent Document Processing Platform
         date: "2026"
         summary: Document-AI services converting documents and conversations into structured data, in Persian and English. Asynchronous OCR with vision-language models, LLM-based extraction and validation, multi-provider LLM orchestration with local fallback, template-driven conversational generation, PII redaction, and full observability.
         location: Startup
+
       - name: Content-Based Medical Image Retrieval (CBMIR)
         date: "2025"
         summary: Explores vision and vision-language foundation models for content-based medical image retrieval across 2D and 3D medical images, and investigates the impact of image size on retrieval performance.
         location: Danube Private University Austria (DPU)
+
       - name: Medical Image Retrieval with Foundation Models
         date: "2025"
         summary: Evaluation of pre-trained CNNs and medical foundation models as feature extractors for content-based medical image retrieval.
         url: https://github.com/nematollahsaeidi/Medical-Image-Retrieval
+
       - name: Histology Image Classification with GNNs
         date: "2025"
         summary: Medical image classification using foundation model features in a graph neural network.
         url: https://github.com/nematollahsaeidi/his_img_GNN_classification
+
       - name: Contour Drawing for a Robot Motion Planning System
         date: "2024"
         summary: Python code to generate contours from input images based on shape-dependent characteristics, as input for a robot motion planning system implemented in MATLAB.
         url: https://github.com/nematollahsaeidi/Photo-Sketch
         location: FANAP
+
       - name: Automatic Number Plate Recognition System
         date: "2021"
         end_date: "2022"
         summary: Vehicle registration, vehicle data search, top records by license plate, and attendance management for tracking user activity within specified time and date ranges.
+        url: https://github.com/nematollahsaeidi/Automatic-Number-Plate-Recognition
         location: FANAP
+
       - name: Development of a ChatBot UI
         date: "2021"
         summary: Developed a chatbot user interface.
         location: FANAP
+
       - name: Fraud Detection
         date: "2021"
         summary: Web-based system for detecting potential fraudulent activities from user transaction data, combining data processing and user behavior analysis to identify anomalies or fraud risks.
+        url: https://github.com/nematollahsaeidi/Fraud-Detection-Service
         location: FANAP
+
       - name: Object Detection App
         date: "2020"
         end_date: "2021"
         summary: Flask-based web application for detecting objects in images and retrieving visually similar images using deep learning and computer vision techniques.
+        url: https://github.com/nematollahsaeidi/Object-Detection-and-Retrieval-System
         location: FANAP
+
       - name: Video Surveillance-Based Attendance and Register App
         date: "2021"
         summary: System for managing and tracking employee attendance, work hours, and personal data, with biometric authentication, data registration, and reporting.
+        url: https://github.com/nematollahsaeidi/Registration-Attendance-System
         location: FANAP
+
       - name: Visual Search App
         date: "2020"
         end_date: "2021"
         summary: Visual search combining object detection, recognition, color extraction, and background subtraction, with web crawling, transfer learning, and approximate nearest-neighbor search.
         location: FANAP
+
       - name: Customer Behavior Analysis
         date: "2019"
         end_date: "2020"
         summary: Clustering of customer behavior patterns in grocery retail using SaaS metrics, KPIs, segmentation, cluster ensembles, and numeric and categorical clustering methods.
         location: FANAP
+
       - name: Recommendation System
         date: "2019"
         summary: Sequence-to-sequence ranking, association rules, hybrid/content-based/collaborative filtering, customer clustering, feature engineering for candidate generation, and data cleansing and database management.
+        url: https://github.com/nematollahsaeidi/Sequential-Recommendation
         location: FANAP
+
       - name: Marketing Analysis and Product Prediction
         date: "2018"
         end_date: "2019"
         summary: Marketing analysis and product prediction using CatBoost, XGBoost, LightGBM, ensemble methods, and multilayer perceptrons across business datasets.
         location: FANAP
+
       - name: Learning Multi-Objective Binary Features for Image Representation and Recognition
         date: "2016"
         end_date: "2017"
         summary: MATLAB implementations for extracting robust binary features using Multi-Objective Binary Feature (MOBF) for face recognition and image representation.
+        url: https://github.com/nematollahsaeidi/Multi-Objective-Binary-Feature
         location: University of Isfahan
+
       - name: Standard Sugarscape Model using Reinforcement Learning
         date: "2012"
         end_date: "2013"
