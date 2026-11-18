@@ -266,10 +266,10 @@ cv:
         url: https://github.com/nematollahsaeidi/Fraud-Detection-Service
         location: FANAP
 
-      - name: Object Detection App
+      - name: Visual Search and Object Detection System
         date: "2020"
         end_date: "2021"
-        summary: Flask-based web application for detecting objects in images and retrieving visually similar images using deep learning and computer vision techniques.
+        summary: Flask-based web application for object detection and visual search. Detects and recognizes objects in images, extracts colors, removes backgrounds, and retrieves visually similar images, using deep learning, computer vision, web crawling, transfer learning, and approximate nearest-neighbor search.
         url: https://github.com/nematollahsaeidi/Object-Detection-and-Retrieval-System
         location: FANAP
 
@@ -277,12 +277,6 @@ cv:
         date: "2021"
         summary: System for managing and tracking employee attendance, work hours, and personal data, with biometric authentication, data registration, and reporting.
         url: https://github.com/nematollahsaeidi/Registration-Attendance-System
-        location: FANAP
-
-      - name: Visual Search App
-        date: "2020"
-        end_date: "2021"
-        summary: Visual search combining object detection, recognition, color extraction, and background subtraction, with web crawling, transfer learning, and approximate nearest-neighbor search.
         location: FANAP
 
       - name: Customer Behavior Analysis
