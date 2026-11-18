@@ -232,9 +232,9 @@ cv:
         summary: Explores vision and vision-language foundation models for content-based medical image retrieval across 2D and 3D medical images, and investigates the impact of image size on retrieval performance.
         location: Danube Private University Austria (DPU)
 
-      - name: Medical Image Retrieval with Foundation Models
+      - name: Evaluating Pre-trained Convolutional Neural Networks and Foundation Models as Feature Extractors for Content-based Medical Image Retrieval
         date: "2025"
-        summary: Evaluation of pre-trained CNNs and medical foundation models as feature extractors for content-based medical image retrieval.
+        summary: In this study, we used several pre-trained feature extractors from well-known pre-trained CNNs and pre-trained foundation models and investigated the CBMIR performance on eight types of two-dimensional (2D) and three-dimensional (3D) medical images. Furthermore, we investigated the effect of image size on the CBMIR performance. Published in [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/science/article/pii/S0952197625005718).
         url: https://github.com/nematollahsaeidi/Medical-Image-Retrieval
 
       - name: Histology Image Classification with GNNs
