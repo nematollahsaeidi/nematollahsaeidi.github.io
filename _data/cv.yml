@@ -227,9 +227,9 @@ cv:
         summary: Document-AI services converting documents and conversations into structured data, in Persian and English. Asynchronous OCR with vision-language models, LLM-based extraction and validation, multi-provider LLM orchestration with local fallback, template-driven conversational generation, PII redaction, and full observability.
         location: Startup
 
-      - name: Content-Based Medical Image Retrieval (CBMIR)
+      - name: Leveraging Medical Foundation Model Features in Graph Neural Network‐Based Retrieval of Breast Histopathology Images
         date: "2025"
-        summary: Explores vision and vision-language foundation models for content-based medical image retrieval across 2D and 3D medical images, and investigates the impact of image size on retrieval performance.
+        summary: leverages the features from foundation models in a novel attention‐based adversarially regularized variational graph autoencoder model for breast histological image retrieval.
         location: Danube Private University Austria (DPU)
 
       - name: Evaluating Pre-trained Convolutional Neural Networks and Foundation Models as Feature Extractors for Content-based Medical Image Retrieval
