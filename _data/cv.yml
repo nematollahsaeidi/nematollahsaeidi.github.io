@@ -75,7 +75,7 @@ cv:
         position: AI Researcher
         location: TFZ, Austria (Hybrid)
         start_date: 2023-09
-        end_date: present
+        end_date: 2025-09
         summary: Research medical image retrieval and histopathology image analysis in the Medical Image Analysis & Artificial Intelligence (MIAAI) group.
         highlights:
           - Investigate graph neural networks and foundation models for content-based medical image retrieval.
