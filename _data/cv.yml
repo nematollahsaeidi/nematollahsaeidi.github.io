@@ -151,6 +151,7 @@ cv:
         publisher: Engineering Applications of Artificial Intelligence (IF~8, Q1)
         releaseDate: "2025"
         doi: 10.1016/j.engappai.2025.110571
+        summary: "[Code](https://github.com/nematollahsaeidi/Medical-Image-Retrieval)"
       - title: Integrating Foundation Model Features into Graph Neural Network and Fusing Predictions with Standard Fine-Tuned Models for Histology Image Classification
         authors:
           - Nematollah Saeidi
