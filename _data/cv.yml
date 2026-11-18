@@ -234,12 +234,12 @@ cv:
 
       - name: Evaluating Pre-trained Convolutional Neural Networks and Foundation Models as Feature Extractors for Content-based Medical Image Retrieval
         date: "2025"
-        summary: In this study, we used several pre-trained feature extractors from well-known pre-trained CNNs and pre-trained foundation models and investigated the CBMIR performance on eight types of two-dimensional (2D) and three-dimensional (3D) medical images. Furthermore, we investigated the effect of image size on the CBMIR performance. Published in [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/science/article/pii/S0952197625005718).
+        summary: uses several pre-trained feature extractors from well-known pre-trained CNNs and pre-trained foundation models and investigates the CBMIR performance on eight types of two-dimensional (2D) and three-dimensional (3D) medical images. Furthermore, this project investigates the effect of image size on the CBMIR performance.
         url: https://github.com/nematollahsaeidi/Medical-Image-Retrieval
 
-      - name: Histology Image Classification with GNNs
+      - name: Integrating Foundation Model Features into Graph Neural Network and Fusing Predictions with Standard Fine-Tuned Models for Histology Image Classification
         date: "2025"
-        summary: Medical image classification using foundation model features in a graph neural network.
+        summary: integrates recently developed foundation models as feature extractors within a lightweight GNN and compares their performance with standard fine-tuned CNN and ViT models. Furthermore, this project explore a prediction fusion approach that combines the outputs of the best-performing GNN and fine-tuned model to evaluate the benefits of complementary representations. 
         url: https://github.com/nematollahsaeidi/his_img_GNN_classification
 
       - name: Contour Drawing for a Robot Motion Planning System
