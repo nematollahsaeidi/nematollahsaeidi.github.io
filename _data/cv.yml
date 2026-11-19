@@ -252,57 +252,57 @@ cv:
 
       - name: Contour Drawing for a Robot Motion Planning System
         date: "2024"
-        summary: Python code to generate contours from input images based on shape-dependent characteristics, as input for a robot motion planning system implemented in MATLAB.
+        summary: generates contours from input images based on shape-dependent characteristics, as input for a robot motion planning system implemented in MATLAB.
         url: https://github.com/nematollahsaeidi/Photo-Sketch
         location: FANAP
 
       - name: Automatic Number Plate Recognition System
         date: "2021"
         end_date: "2022"
-        summary: Vehicle registration, vehicle data search, top records by license plate, and attendance management for tracking user activity within specified time and date ranges.
+        summary: provides vehicle registration, vehicle data search, and display of top records based on license plates. It also includes an attendance management feature for tracking user activity within specified time and date ranges.
         url: https://github.com/nematollahsaeidi/Automatic-Number-Plate-Recognition
         location: FANAP
 
-      - name: Development of a ChatBot UI
+      - name: ChatBot UI
         date: "2021"
-        summary: Developed a chatbot user interface.
+        summary: Development of a chatbot user interface.
         location: FANAP
 
       - name: Fraud Detection
         date: "2021"
-        summary: Web-based system for detecting potential fraudulent activities from user transaction data, combining data processing and user behavior analysis to identify anomalies or fraud risks.
+        summary: a web-based system for detecting potential fraudulent activities from user transaction data. It combines multiple modules for data processing and user behavior analysis to determine anomalies or fraud risks.
         url: https://github.com/nematollahsaeidi/Fraud-Detection-Service
         location: FANAP
 
       - name: Visual Search and Object Detection System
         date: "2020"
         end_date: "2021"
-        summary: Flask-based web application for object detection and visual search. Detects and recognizes objects in images, extracts colors, removes backgrounds, and retrieves visually similar images, using deep learning, computer vision, web crawling, transfer learning, and approximate nearest-neighbor search.
+        summary: flask-based web application for object detection and visual search. Detects and recognizes objects in images, extracts colors, removes backgrounds, and retrieves visually similar images using deep learning, computer vision, web crawling, transfer learning, and approximate nearest-neighbor search.
         url: https://github.com/nematollahsaeidi/Object-Detection-and-Retrieval-System
         location: FANAP
 
       - name: Video Surveillance-Based Attendance and Register App
         date: "2021"
-        summary: System for managing and tracking employee attendance, work hours, and personal data, with biometric authentication, data registration, and reporting.
+        summary: manages and trackes employee attendance, work hours, and personal data, with biometric authentication, data registration, and reporting.
         url: https://github.com/nematollahsaeidi/Registration-Attendance-System
         location: FANAP
 
       - name: Customer Behavior Analysis
         date: "2019"
         end_date: "2020"
-        summary: Clustering of customer behavior patterns in grocery retail using SaaS metrics, KPIs, segmentation, cluster ensembles, and numeric and categorical clustering methods.
+        summary: clusters of customer behavior patterns. In grocery retail, SaaS metrics, KPIs, and customer segmentation are used to gain business insights. Cluster ensembles, along with numeric and categorical clustering methods, enhances customer analysis and segmentation for better targeting.
         location: FANAP
 
       - name: Recommendation System
         date: "2019"
-        summary: Sequence-to-sequence ranking, association rules, hybrid/content-based/collaborative filtering, customer clustering, feature engineering for candidate generation, and data cleansing and database management.
+        summary: a solution for recommendation and customer analysis. It includes a sequence-to-sequence deep learning model for ranking, association rule-based, hybrid, content-based and collaborative filtering systems, customer clustering, and feature engineering for candidate generation. It also covers data collection, table treatment, data cleansing, and database management.
         url: https://github.com/nematollahsaeidi/Sequential-Recommendation
         location: FANAP
 
       - name: Marketing Analysis and Product Prediction
         date: "2018"
         end_date: "2019"
-        summary: Marketing analysis and product prediction using CatBoost, XGBoost, LightGBM, ensemble methods, and multilayer perceptrons across business datasets.
+        summary: marketing analysis and product prediction using CatBoost, XGBoost, LightGBM, ensemble methods, and multilayer perceptrons across business datasets.
         location: FANAP
 
       - name: Learning Multi-Objective Binary Features for Image Representation and Recognition
@@ -315,7 +315,7 @@ cv:
       - name: Standard Sugarscape Model using Reinforcement Learning
         date: "2012"
         end_date: "2013"
-        summary: Agent-based social simulation model using reinforcement learning.
+        summary: A standard Sugarscape model extended with reinforcement learning for intelligent agent-based social simulation.
         location: Islamic Azad University, Najafabad Branch
     Awards:
       - title: Ernst Mach Grant, OeAD (Austrian Agency for International Cooperation in Education and Research)
