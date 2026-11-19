@@ -125,6 +125,7 @@ cv:
         publisher: Applied Soft Computing (IF~8.2, Q1)
         releaseDate: "2026"
         doi: 10.1016/j.asoc.2026.115122
+    
       - title: Leveraging Medical Foundation Model Features in Graph Neural Network-Based Retrieval of Breast Histopathology Images
         url: https://doi.org/10.1002/ima.70346
         authors:
@@ -139,6 +140,7 @@ cv:
         publisher: International Journal of Imaging Systems and Technology (IF~3.3, Q2)
         releaseDate: "2026"
         doi: 10.1002/ima.70346
+    
       - title: Evaluating Pre-trained Convolutional Neural Networks and Foundation Models as Feature Extractors for Content-based Medical Image Retrieval
         authors:
           - Amirreza Mahbod
@@ -148,9 +150,10 @@ cv:
         journal: Engineering Applications of Artificial Intelligence (IF~8, Q1)
         date: "2025"
         url: https://doi.org/10.1016/j.engappai.2025.110571
-        publisher: 'Engineering Applications of Artificial Intelligence (IF~8, Q1) <a href="https://github.com/nematollahsaeidi/Medical-Image-Retrieval" target="_blank"><span style=''font-style: italic; font-weight: 700; color: var(--global-theme-color);''>Code</span></a>'
+        publisher: "Engineering Applications of Artificial Intelligence (IF~8, Q1) · <a href='https://github.com/nematollahsaeidi/Medical-Image-Retrieval' target='_blank'><span style='font-style: italic; font-weight: 700; color: var(--global-theme-color);'>Code</span></a>"
         releaseDate: "2025"
         doi: 10.1016/j.engappai.2025.110571
+    
       - title: Integrating Foundation Model Features into Graph Neural Network and Fusing Predictions with Standard Fine-Tuned Models for Histology Image Classification
         authors:
           - Nematollah Saeidi
@@ -160,9 +163,10 @@ cv:
         journal: Bioengineering (IF~3.7, Q2)
         date: "2025"
         url: https://doi.org/10.3390/bioengineering12121332
-        publisher: Bioengineering (IF~3.7, Q2)
+        publisher: "Bioengineering (IF~3.7, Q2) · <a href='https://github.com/nematollahsaeidi/his_img_GNN_classification' target='_blank'><span style='font-style: italic; font-weight: 700; color: var(--global-theme-color);'>Code</span></a>"
         releaseDate: "2025"
         doi: 10.3390/bioengineering12121332
+    
       - title: Incorporating Shape Dependent Power Law in Motion Planning for Drawing Robots
         url: https://doi.org/10.1016/j.robot.2024.104801
         authors:
@@ -171,9 +175,10 @@ cv:
           - Vahid Hajipour
         journal: Robotics and Autonomous Systems (IF~4.3, Q1)
         date: "2024"
-        publisher: Robotics and Autonomous Systems (IF~4.3, Q1)
+        publisher: "Robotics and Autonomous Systems (IF~4.3, Q1) · <a href='https://github.com/nematollahsaeidi/Photo-Sketch' target='_blank'><span style='font-style: italic; font-weight: 700; color: var(--global-theme-color);'>Code</span></a>"
         releaseDate: "2024"
         doi: 10.1016/j.robot.2024.104801
+    
       - title: "Artificial Intelligence and Clinical Decision Making: Approaches and Challenges"
         url: https://jaisis.khatam.ac.ir/article_163128.html
         authors:
@@ -184,6 +189,7 @@ cv:
         publisher: Journal of Applied Intelligent Systems and Information Sciences
         releaseDate: "2022"
         doi: 10.22034/JAISIS.2022.371239.1054
+    
       - title: Attention-Based and Positional-Aware Neural Networks for Next-Item Recommendation
         url: https://jaisis.khatam.ac.ir/article_139007.html
         authors:
@@ -194,6 +200,7 @@ cv:
         publisher: Journal of Applied Intelligent Systems and Information Sciences
         releaseDate: "2021"
         doi: 10.22034/JAISIS.2021.304225.1033
+    
       - title: Single Sample Face Recognition Using Multicross Pattern and Learning Discriminative Binary Features
         url: https://doi.org/10.1080/19361610.2019.1581877
         authors:
@@ -202,9 +209,10 @@ cv:
           - H. M. Mohammadi
         journal: Journal of Applied Security Research (IF~1.2, Q2)
         date: "2019"
-        publisher: Journal of Applied Security Research (IF~1.2, Q2)
+        publisher: "Journal of Applied Security Research (IF~1.2, Q2) · <a href='https://github.com/nematollahsaeidi/Multi-Objective-Binary-Feature' target='_blank'><span style='font-style: italic; font-weight: 700; color: var(--global-theme-color);'>Code</span></a>"
         releaseDate: "2019"
         doi: 10.1080/19361610.2019.1581877
+    
       - title: Learning Multi-Objective Binary Features for Image Representation
         url: https://doi.org/10.1109/ICCKE.2017.8167927
         authors:
@@ -213,7 +221,7 @@ cv:
           - H. M. Mohammadi
         journal: 2017 7th International Conference on Computer and Knowledge Engineering (ICCKE), IEEE
         date: "2017"
-        publisher: 2017 7th International Conference on Computer and Knowledge Engineering (ICCKE), IEEE
+        publisher: "2017 7th International Conference on Computer and Knowledge Engineering (ICCKE), IEEE · <a href='https://github.com/nematollahsaeidi/Multi-Objective-Binary-Feature' target='_blank'><span style='font-style: italic; font-weight: 700; color: var(--global-theme-color);'>Code</span></a>"
         releaseDate: "2017"
         doi: 10.1109/ICCKE.2017.8167927
     Projects:
