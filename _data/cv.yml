@@ -58,7 +58,7 @@ cv:
         highlights:
           - "Multilingual (Persian/English) hybrid search over enterprise data: lexical and semantic retrieval, reranking, LLM-based relevance scoring, and grounded answer generation."
           - "Asynchronous OCR and vision-language-model pipelines that convert documents and conversations into structured data, with LLM-based extraction, validation, and template-driven conversational generation."
-          - "Multi-provider LLM orchestration with failover and local fallback, PII redaction, observability, streaming APIs, and fully on-premises deployment for sensitive data."    
+          - "Multi-provider LLM orchestration with failover and local fallback, PII redaction, observability, streaming APIs, and fully on-premises deployment for sensitive data."
       - company: Hyrcan Technology Development Co.
         position: AI Engineer
         location: Tehran, Iran (Hybrid)
@@ -148,8 +148,7 @@ cv:
         journal: Engineering Applications of Artificial Intelligence (IF~8, Q1)
         date: "2025"
         url: https://doi.org/10.1016/j.engappai.2025.110571
-        publisher: >-
-        Engineering Applications of Artificial Intelligence (IF~8, Q1) ·<a href="https://github.com/nematollahsaeidi/Medical-Image-Retrieval" target="_blank"><span style="font-style: normal; font-weight: 700; color: #2698ba;">Code</span></a>
+        publisher: 'Engineering Applications of Artificial Intelligence (IF~8, Q1) · <a href="https://github.com/nematollahsaeidi/Medical-Image-Retrieval" target="_blank"><span style="font-style: normal; font-weight: 700; color: #2698ba;">Code</span></a>'
         releaseDate: "2025"
         doi: 10.1016/j.engappai.2025.110571
       - title: Integrating Foundation Model Features into Graph Neural Network and Fusing Predictions with Standard Fine-Tuned Models for Histology Image Classification
@@ -240,7 +239,7 @@ cv:
 
       - name: Integrating Foundation Model Features into Graph Neural Network and Fusing Predictions with Standard Fine-Tuned Models for Histology Image Classification
         date: "2025"
-        summary: integrates recently developed foundation models as feature extractors within a lightweight GNN and compares their performance with standard fine-tuned CNN and ViT models. Furthermore, this project explore a prediction fusion approach that combines the outputs of the best-performing GNN and fine-tuned model to evaluate the benefits of complementary representations. 
+        summary: integrates recently developed foundation models as feature extractors within a lightweight GNN and compares their performance with standard fine-tuned CNN and ViT models. Furthermore, this project explore a prediction fusion approach that combines the outputs of the best-performing GNN and fine-tuned model to evaluate the benefits of complementary representations.
         url: https://github.com/nematollahsaeidi/his_img_GNN_classification
 
       - name: Contour Drawing for a Robot Motion Planning System
@@ -373,7 +372,7 @@ cv:
       - bullet: "**Biomedical Signal Processing and Control** — Elsevier. [Link](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)"
       - bullet: "**International Journal of Imaging Systems and Technology** — Wiley. [Link](https://onlinelibrary.wiley.com/journal/10981098)"
       - bullet: "**Cancer Control** — SAGE. [Link](https://journals.sagepub.com/home/ccx)"
-      - bullet: "**Journal of Applied Intelligent Systems & Information Sciences (JAISIS)** — FANAP. [Link](https://jaisis.khatam.ac.ir)"    
+      - bullet: "**Journal of Applied Intelligent Systems & Information Sciences (JAISIS)** — FANAP. [Link](https://jaisis.khatam.ac.ir)"
     Teaching Assistant:
       - bullet: "**Machine Learning** — Graduate Teaching Assistant, University of Isfahan, Iran (Jan 2016–Jun 2017), under the supervision of Dr. Peyman Adibi."
       - bullet: "**Statistical Pattern Recognition** — Graduate Teaching Assistant, University of Isfahan, Iran (Jan 2016–Jun 2017), under the supervision of Dr. Peyman Adibi."
