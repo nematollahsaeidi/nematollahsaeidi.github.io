@@ -148,7 +148,7 @@ cv:
         journal: Engineering Applications of Artificial Intelligence (IF~8, Q1)
         date: "2025"
         url: https://doi.org/10.1016/j.engappai.2025.110571
-        publisher: 'Engineering Applications of Artificial Intelligence (IF~8, Q1) · <a href="https://github.com/nematollahsaeidi/Medical-Image-Retrieval" target="_blank"><span style=''font-style: italic; font-weight: 700; color: var(--global-theme-color);''>Code</span></a>'
+        publisher: 'Engineering Applications of Artificial Intelligence (IF~8, Q1) <a href="https://github.com/nematollahsaeidi/Medical-Image-Retrieval" target="_blank"><span style=''font-style: italic; font-weight: 700; color: var(--global-theme-color);''>Code</span></a>'
         releaseDate: "2025"
         doi: 10.1016/j.engappai.2025.110571
       - title: Integrating Foundation Model Features into Graph Neural Network and Fusing Predictions with Standard Fine-Tuned Models for Histology Image Classification
@@ -157,10 +157,10 @@ cv:
           - N. Torbati
           - R. Woitek
           - Amirreza Mahbod
-        journal: Bioengineering, 12, 1332 (IF~3.7, Q2)
+        journal: Bioengineering (IF~3.7, Q2)
         date: "2025"
         url: https://doi.org/10.3390/bioengineering12121332
-        publisher: Bioengineering, 12, 1332 (IF~3.7, Q2)
+        publisher: Bioengineering (IF~3.7, Q2)
         releaseDate: "2025"
         doi: 10.3390/bioengineering12121332
       - title: Incorporating Shape Dependent Power Law in Motion Planning for Drawing Robots
@@ -169,9 +169,9 @@ cv:
           - M. Abedinzadeh Shahri
           - Nematollah Saeidi
           - Vahid Hajipour
-        journal: Robotics and Autonomous Systems, 182, 104801 (IF~4.3, Q1)
+        journal: Robotics and Autonomous Systems (IF~4.3, Q1)
         date: "2024"
-        publisher: Robotics and Autonomous Systems, 182, 104801 (IF~4.3, Q1)
+        publisher: Robotics and Autonomous Systems (IF~4.3, Q1)
         releaseDate: "2024"
         doi: 10.1016/j.robot.2024.104801
       - title: "Artificial Intelligence and Clinical Decision Making: Approaches and Challenges"
@@ -179,9 +179,9 @@ cv:
         authors:
           - Nematollah Saeidi
           - M. Torabi
-        journal: Journal of Applied Intelligent Systems and Information Sciences, 3(2), 43-55
+        journal: Journal of Applied Intelligent Systems and Information Sciences
         date: "2022"
-        publisher: Journal of Applied Intelligent Systems and Information Sciences, 3(2), 43-55
+        publisher: Journal of Applied Intelligent Systems and Information Sciences
         releaseDate: "2022"
         doi: 10.22034/JAISIS.2022.371239.1054
       - title: Attention-Based and Positional-Aware Neural Networks for Next-Item Recommendation
@@ -189,9 +189,9 @@ cv:
         authors:
           - Nematollah Saeidi
           - H. Shahamat
-        journal: Journal of Applied Intelligent Systems and Information Sciences, 2(1), 29-40
+        journal: Journal of Applied Intelligent Systems and Information Sciences
         date: "2021"
-        publisher: Journal of Applied Intelligent Systems and Information Sciences, 2(1), 29-40
+        publisher: Journal of Applied Intelligent Systems and Information Sciences
         releaseDate: "2021"
         doi: 10.22034/JAISIS.2021.304225.1033
       - title: Single Sample Face Recognition Using Multicross Pattern and Learning Discriminative Binary Features
@@ -200,9 +200,9 @@ cv:
           - Nematollah Saeidi
           - H. Karshenas
           - H. M. Mohammadi
-        journal: Journal of Applied Security Research, 14(2), 169-190 (IF~1.2, Q2)
+        journal: Journal of Applied Security Research (IF~1.2, Q2)
         date: "2019"
-        publisher: Journal of Applied Security Research, 14(2), 169-190 (IF~1.2, Q2)
+        publisher: Journal of Applied Security Research (IF~1.2, Q2)
         releaseDate: "2019"
         doi: 10.1080/19361610.2019.1581877
       - title: Learning Multi-Objective Binary Features for Image Representation
@@ -211,9 +211,9 @@ cv:
           - Nematollah Saeidi
           - H. Karshenas
           - H. M. Mohammadi
-        journal: 2017 7th International Conference on Computer and Knowledge Engineering (ICCKE), Mashhad, pp. 47-52, IEEE
+        journal: 2017 7th International Conference on Computer and Knowledge Engineering (ICCKE), IEEE
         date: "2017"
-        publisher: 2017 7th International Conference on Computer and Knowledge Engineering (ICCKE), Mashhad, pp. 47-52, IEEE
+        publisher: 2017 7th International Conference on Computer and Knowledge Engineering (ICCKE), IEEE
         releaseDate: "2017"
         doi: 10.1109/ICCKE.2017.8167927
     Projects:
